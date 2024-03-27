@@ -31,8 +31,8 @@ https://m11.spwvpn.com/api/v1/client/subscribe?token=eeb0796a5bc11a25aed8ab866cd
 https://aa.dabai.in/link/6hqEY4qjCts48S3y?sub=3
 https://sub.passgfw.top/api/v1/client/subscribe?token=c6bccda8036ad85c3092c96de2451f34
 https://m33.spwvpn.com/api/v1/client/subscribe?token=2b2fcbc2a6e165be91f903f4fdbfed69
-https://api.xqc.best/api/v1/client/subscribe?token=ea4f537a983f28cc318f81fd445709b6
 https://www.freeflyingcloud.xyz/api/v1/client/subscribe?token=4e3aa4b393e971356957869520a15f1a
+https://api.xqc.best/api/v1/client/subscribe?token=ea4f537a983f28cc318f81fd445709b6
 https://dingyue.xxss.org/api/v1/client/subscribe?token=ba59420e1187ee3caf8d2a28924ab3b0
 
 
