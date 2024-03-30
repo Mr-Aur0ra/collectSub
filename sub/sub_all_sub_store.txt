@@ -18,6 +18,7 @@ https://sub123.71345.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab6952
 https://d.palu123.com/apk/go/client/banzou?token=958ca7f313dbbd41a050f64b300c8931
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
+https://webridge.pokeryun.link/api/v1/client/subscribe?token=e34040eda6f7864ef8573b57214c6f55
 https://sub.tgzdyz2.xyz/sub
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d&amp;flag=clash
 https://acl.syyn.pw/api/v1/client/subscribe?token=50ec85cb5066c879d0413aa2650eee0b
@@ -210,6 +211,7 @@ https://v.spwvpn.com/api/v1/client/subscribe?token=9026c066949ca40263433eb93ace5
 https://v.spwvpn.com/api/v1/client/subscribe?token=c95dca86cca324dfdbc5d4777aa0ee6d
 https://vodfavor.top/api/v1/client/subscribe?token=1454aa4b7e7ee48ae697f697c1199bff
 https://wdsl88cc-sl.shenlong.wiki/api/v1/client/subscribe?token=adcb04cbb47c91e742dcb7d16bd2f875
+https://webridge.pokeryun.link/api/v1/client/subscribe?token=e34040eda6f7864ef8573b57214c6f55
 https://www.ccsub.online/link/l2gMrWO1W0oK0dZz?clash=1
 https://www.dabai.in/link/qrWBdYEZPKr61KkM?list=shadowrocket
 https://www.freeflyingcloud.xyz/api/v1/client/subscribe?token=4e3aa4b393e971356957869520a15f1a
