@@ -1,10 +1,8 @@
 -- play_list --
 
 
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=91329feda803c29309d5eae3e2c9c004
 https://api.fanss.vip/link/HsszgxYX4oQolvvB?clash=1
 https://1g.gay/?v2b=www.ckcloud.cc
-https://my.catfaka.com/api/v1/client/subscribe?token=95a6835aaf83315b558c31de40d5163f
 https://api.xqc.best/api/v1/client/subscribe?token=d2b3434d2072026c1f7553f5616f34c7
 https://pro.76898102.xyz/api/v1/client/subscribe?token=620becb195ce69c52040eab736daa2dd
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
@@ -20,6 +18,7 @@ https://cm-sub.pz.pe/subscribe/RH38BUSQ3IRD8NPS?node=mix
 https://acl.syyn.pw/api/v1/client/subscribe?token=50ec85cb5066c879d0413aa2650eee0b
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
+https://sub.tgzdyz2.xyz/sub
 https://0d2th.no-mad-world.club/link/dacqbivsqysnpzlq?clash=3&amp;extend=1
 https://jsjc.cfd/api/v1/client/subscribe?token=c7a301335245869f67708d7ecb3fdb3d
 https://aa.dabai.in/link/6hqEY4qjCts48S3y?sub=3
