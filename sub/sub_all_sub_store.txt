@@ -13,6 +13,7 @@ https://xn--pssq69d.xyz/api/v1/client/subscribe?token=6b87bc457f05647ec55b9b199a
 https://acl.syyn.pw/api/v1/client/subscribe?token=50ec85cb5066c879d0413aa2650eee0b
 https://d.palu123.com/apk/go/client/banzou?token=958ca7f313dbbd41a050f64b300c8931
 https://lbxjc.online/api/v1/client/subscribe?token=aea1638fd0e8fa052165ea6add7a5520
+https://jsjc.cfd/api/v1/client/subscribe?token=c7a301335245869f67708d7ecb3fdb3d
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
 https://sub123.71345.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
 https://eggtartcloud.biz/api/v1/client/subscribe?token=d850e05d2a31bce40c7353b4c8f38eee
