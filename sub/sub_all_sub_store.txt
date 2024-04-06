@@ -13,9 +13,9 @@ https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?
 http://api.123417.xyz/api/v1/client/subscribe?token=84b21c9ad6dd351239d50994542e2137
 https://api1.xn--bnq37rc0nw50b.com/api/v1/client/subscribe?token=7e891a8671f49a61ece23064e98f9362&amp;flag=clashmeta
 https://xn--pssq69d.xyz/api/v1/client/subscribe?token=6b87bc457f05647ec55b9b199aed9604
+https://ymjc.cfd/api/v1/client/subscribe?token=c18b162e05455ce1cb767ac8248700fb
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
 https://sub123.71345.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
-https://ymjc.cfd/api/v1/client/subscribe?token=c18b162e05455ce1cb767ac8248700fb
 https://cm-sub.pz.pe/subscribe/RH38BUSQ3IRD8NPS?node=mix
 https://ymjc.cfd/api/v1/client/subscribe?token=a460d50a63b4a28b51bc132db137e7db
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
