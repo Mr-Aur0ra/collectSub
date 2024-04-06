@@ -7,7 +7,6 @@ https://m11.spwvpn.com/api/v1/client/subscribe?token=0e687022baf3189792d4ea73ef8
 https://m11.spwvpn.com/api/v1/client/subscribe?token=806b9a40bc236267bcba19de4fb2ba21
 https://api.xqc.best/api/v1/client/subscribe?token=d2b3434d2072026c1f7553f5616f34c7
 https://pro.76898102.xyz/api/v1/client/subscribe?token=620becb195ce69c52040eab736daa2dd
-https://subs.xttlove.uk/api/v1/client/subscribe?token=a5c52bd6b40110375e4163539bf4036e#rename=@-0.2x
 https://d.palu123.com/apk/go/client/banzou?token=958ca7f313dbbd41a050f64b300c8931
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
 https://sub.pddf.shop/api/v1/client/subscribe?token=28eeb1b9f011f8661979fbe066d848de
@@ -26,6 +25,7 @@ https://ymjc.cfd/api/v1/client/subscribe?token=c18b162e05455ce1cb767ac8248700fb
 https://v.spwvpn.com/api/v1/client/subscribe?token=8ecf69f74ec1f576a0d1504398a19065
 https://l.db-link01.top/link/BauoUCZPTZWvzQgK?clash=1
 https://l.db-link01.top/link/mcRDCTAfHQXPjJhu?list=shadowrocket
+https://subs.xttlove.uk/api/v1/client/subscribe?token=a5c52bd6b40110375e4163539bf4036e#rename=@-0.2x
 
 
 -- sub_list --
