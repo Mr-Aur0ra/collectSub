@@ -1,15 +1,13 @@
 -- play_list --
 
 
-https://xsus.wiki/api/v1/client/subscribe?token=d0bd22a534e76a5eb6aca4f3e60b5af5&amp;flag=clash
 https://api.fanss.vip/link/HsszgxYX4oQolvvB?clash=1
 https://m11.spwvpn.com/api/v1/client/subscribe?token=0e687022baf3189792d4ea73ef82584d
 https://m11.spwvpn.com/api/v1/client/subscribe?token=319f2c1bdcb78325ec193dec5d00226a
 https://m11.spwvpn.com/api/v1/client/subscribe?token=806b9a40bc236267bcba19de4fb2ba21
 https://api.xqc.best/api/v1/client/subscribe?token=d2b3434d2072026c1f7553f5616f34c7
-https://ymjc.cfd/api/v1/client/subscribe?token=c18b162e05455ce1cb767ac8248700fb
-http://api.xn--14ra41gd24b.xyz/api/v1/client/subscribe?token=2dd7b0de39536f2e08d53d4bdf078c28
 https://dycd.knjc.cfd/api/v1/client/subscribe?token=ca1bf8b4cabc8ceca21da30136e78a3e
+http://api.xn--14ra41gd24b.xyz/api/v1/client/subscribe?token=2dd7b0de39536f2e08d53d4bdf078c28
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d&amp;flag=clash
 http://api.123417.xyz/api/v1/client/subscribe?token=84b21c9ad6dd351239d50994542e2137
@@ -25,12 +23,13 @@ https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
 https://sub.tgzdyz2.xyz/sub
 https://www.freeflyingcloud.xyz/api/v1/client/subscribe?token=590cc3851211186efec6a1f5f63fd441
 https://z.playddt.com/apk/go/client/banzou?token=35fc1fc2a21480b8a992b727c15522f1&amp;flag=meta
+https://ymjc.cfd/api/v1/client/subscribe?token=c18b162e05455ce1cb767ac8248700fb
 https://www.freeflyingcloud.xyz/api/v1/client/subscribe?token=9f758a9a503b2399c495cef6b1054808
 https://v.spwvpn.com/api/v1/client/subscribe?token=8ecf69f74ec1f576a0d1504398a19065
 https://l.db-link01.top/link/BauoUCZPTZWvzQgK?clash=1
+https://www.freeflyingcloud.xyz/api/v1/client/subscribe?token=8051e43af4195ac4098e4330f1c8e744
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=ff5fd444baaadb92d8aaa3040855b24e
 https://l.db-link01.top/link/mcRDCTAfHQXPjJhu?list=shadowrocket
-https://www.freeflyingcloud.xyz/api/v1/client/subscribe?token=8051e43af4195ac4098e4330f1c8e744
 https://u4dqz2t0x576.syynweb.shop/api/v1/client/subscribe?token=3bdd372f7060ebdd3312ebbd4d961160
 https://syyn.xyz/api/v1/client/subscribe?token=8c1261d3e0b3409af7a4baa3a9e645e3
 http://www.freeflyingcloud.xyz/api/v1/client/subscribe?token=3af0fc28a300c9ebc6544504f18d9f82
