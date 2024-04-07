@@ -13,6 +13,7 @@ https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?
 http://api.123417.xyz/api/v1/client/subscribe?token=84b21c9ad6dd351239d50994542e2137
 https://api1.xn--bnq37rc0nw50b.com/api/v1/client/subscribe?token=7e891a8671f49a61ece23064e98f9362&amp;flag=clashmeta
 https://xn--pssq69d.xyz/api/v1/client/subscribe?token=6b87bc457f05647ec55b9b199aed9604
+https://subscribe.insidergame.xyz/api/v1/client/subscribe?token=b8c7f5d1cec04b203b0e8f50c6c56a3c
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
 https://sub123.71345.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
 https://cm-sub.pz.pe/subscribe/RH38BUSQ3IRD8NPS?node=mix
@@ -21,18 +22,19 @@ https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
 https://ymjc.cfd/api/v1/client/subscribe?token=c18b162e05455ce1cb767ac8248700fb
 https://dycd.knjc.cfd/api/v1/client/subscribe?token=ca1bf8b4cabc8ceca21da30136e78a3e
-https://sub4.91qaq.lol/api/v1/client/subscribe?token=de27e4609493e0e162a557a1e931bf0c
 https://v.spwvpn.com/api/v1/client/subscribe?token=8ecf69f74ec1f576a0d1504398a19065
 https://l.db-link01.top/link/BauoUCZPTZWvzQgK?clash=1
+https://sub4.91qaq.lol/api/v1/client/subscribe?token=de27e4609493e0e162a557a1e931bf0c
+https://www.freeflyingcloud.xyz/api/v1/client/subscribe?token=0bc5ef04cf93c1ce8e015397c0a0c487
 https://fs123121.cdn.22.jiacdnd123456789.com/answer/land?token=5ad57ba4f689c71ff7f79e9202262d9a
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=ff5fd444baaadb92d8aaa3040855b24e
 https://l.db-link01.top/link/mcRDCTAfHQXPjJhu?list=shadowrocket
 https://www.freeflyingcloud.xyz/api/v1/client/subscribe?token=31ae610147a32b9ea2f9ea3c7dde12db
-https://www.freeflyingcloud.xyz/api/v1/client/subscribe?token=0bc5ef04cf93c1ce8e015397c0a0c487
 https://www.freeflyingcloud.xyz/api/v1/client/subscribe?token=9f758a9a503b2399c495cef6b1054808
 https://www.freeflyingcloud.xyz/api/v1/client/subscribe?token=590cc3851211186efec6a1f5f63fd441
 https://syyn.xyz/api/v1/client/subscribe?token=8c1261d3e0b3409af7a4baa3a9e645e3
 https://www.freeflyingcloud.xyz/api/v1/client/subscribe?token=8051e43af4195ac4098e4330f1c8e744
+https://u4dqz2t0x576.syynweb.shop/api/v1/client/subscribe?token=3bdd372f7060ebdd3312ebbd4d961160
 
 
 -- sub_list --
@@ -220,6 +222,7 @@ https://sub4.91qaq.lol/api/v1/client/subscribe?token=de27e4609493e0e162a557a1e93
 https://sub4.yljc.online/api/v1/client/subscribe?token=bb4a14b16df5d0c7ef879e06c1996cab
 https://subs.xttlove.uk/api/v1/client/subscribe?token=a5c52bd6b40110375e4163539bf4036e#rename=@-0.2x
 https://subscribe.iint.cc/api/v1/client/subscribe?token=9a68babeeaf17e5c96ca243ed9424b6c
+https://subscribe.insidergame.xyz/api/v1/client/subscribe?token=b8c7f5d1cec04b203b0e8f50c6c56a3c
 https://subscribe.ztpxxx.com/link/0rg6YEfWIQOWbCs4?clash=1
 https://subscribe.ztpxxx.com/link/0rg6YEfWIQOWbCs4?sub=1
 https://subscribe.ztpxxx.com/link/0rg6YEfWIQOWbCs4?sub=1&amp;extend=1
@@ -230,6 +233,7 @@ https://sulian.cc/api/v1/client/subscribe?token=e8912b3473c96f7336f24effa23ef315
 https://syyn.xyz/api/v1/client/subscribe?token=8c1261d3e0b3409af7a4baa3a9e645e3
 https://texon.io/portal/subscribe/546/O1Mns8FCKSl/clash
 https://tuzi226.top/api/v1/client/subscribe?token=c529db69ad56715b2af7109a676635d9
+https://u4dqz2t0x576.syynweb.shop/api/v1/client/subscribe?token=3bdd372f7060ebdd3312ebbd4d961160
 https://update.dotusub.xyz/link/mHCBWenDV6AXCWTB?clash=1
 https://url.funhub.cc/api/v1/client/subscribe?token=e47576e2325db216796f9497a8756193
 https://v.spwvpn.com/api/v1/client/subscribe?token=1002e14b0c5075ffea87e41953bcf3f1
