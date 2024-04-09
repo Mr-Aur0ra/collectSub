@@ -15,7 +15,6 @@ http://api.123417.xyz/api/v1/client/subscribe?token=84b21c9ad6dd351239d50994542e
 https://api1.xn--bnq37rc0nw50b.com/api/v1/client/subscribe?token=7e891a8671f49a61ece23064e98f9362&amp;flag=clashmeta
 http://laobideng.xyz/api/v1/client/subscribe?token=7343ee75e523a03eb9e20206a505d8fe
 https://xn--pssq69d.xyz/api/v1/client/subscribe?token=6b87bc457f05647ec55b9b199aed9604
-https://xsus.wiki/api/v1/client/subscribe?token=d0bd22a534e76a5eb6aca4f3e60b5af5&amp;flag=clash
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
 https://sub123.71345.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
 https://cm-sub.pz.pe/subscribe/RH38BUSQ3IRD8NPS?node=mix
