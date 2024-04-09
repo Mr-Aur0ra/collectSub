@@ -6,8 +6,8 @@ https://m11.spwvpn.com/api/v1/client/subscribe?token=0e687022baf3189792d4ea73ef8
 https://m11.spwvpn.com/api/v1/client/subscribe?token=806b9a40bc236267bcba19de4fb2ba21
 https://api.xqc.best/api/v1/client/subscribe?token=d2b3434d2072026c1f7553f5616f34c7
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
-https://pqjc.site/api/v1/client/subscribe?token=e767135e00a58db0af9ab980ab5bebae
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d&amp;flag=clash
+https://www.bitduct.net/api/v1/client/subscribe?token=2fdd9776bf27de99555522340ddf436d
 http://api.123417.xyz/api/v1/client/subscribe?token=84b21c9ad6dd351239d50994542e2137
 https://api1.xn--bnq37rc0nw50b.com/api/v1/client/subscribe?token=7e891a8671f49a61ece23064e98f9362&amp;flag=clashmeta
 https://xn--pssq69d.xyz/api/v1/client/subscribe?token=6b87bc457f05647ec55b9b199aed9604
@@ -250,6 +250,7 @@ https://v2.ixlmo.com/api/v1/client/subscribe?token=df0f4b5a54985a2ff438e8c0d4d00
 https://vodfavor.top/api/v1/client/subscribe?token=1454aa4b7e7ee48ae697f697c1199bff
 https://wdsl88cc-sl.shenlong.wiki/api/v1/client/subscribe?token=adcb04cbb47c91e742dcb7d16bd2f875
 https://webridge.pokeryun.link/api/v1/client/subscribe?token=e34040eda6f7864ef8573b57214c6f55
+https://www.bitduct.net/api/v1/client/subscribe?token=2fdd9776bf27de99555522340ddf436d
 https://www.ccsub.online/link/l2gMrWO1W0oK0dZz?clash=1
 https://www.dabai.in/link/qrWBdYEZPKr61KkM?list=shadowrocket
 https://www.freeflyingcloud.xyz/api/v1/client/subscribe?token=0bc5ef04cf93c1ce8e015397c0a0c487
