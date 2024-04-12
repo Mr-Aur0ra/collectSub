@@ -4,7 +4,9 @@
 https://m11.spwvpn.com/api/v1/client/subscribe?token=0e687022baf3189792d4ea73ef82584d
 https://m11.spwvpn.com/api/v1/client/subscribe?token=806b9a40bc236267bcba19de4fb2ba21
 https://api.xqc.best/api/v1/client/subscribe?token=d2b3434d2072026c1f7553f5616f34c7
+https://pqjc.site/api/v1/client/subscribe?token=35ed5ecc542b4059f3eaae4a89fae3e3
 https://dycd.gsjc.sbs/api/v1/client/subscribe?token=759e9e2249b72738e0ccee07f65f89d7
+https://xsus.wiki/api/v1/client/subscribe?token=d0bd22a534e76a5eb6aca4f3e60b5af5&amp;flag=clash
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
 http://laobideng.xyz/api/v1/client/subscribe?token=1a925b98f598b08035f819eeb6dbe6f1
 https://ceshi.888451.xyz/api/v1/client/subscribe?token=d59d4f35ec6294c8d5554e2c35864653
@@ -29,8 +31,8 @@ https://v.spwvpn.com/api/v1/client/subscribe?token=8ecf69f74ec1f576a0d1504398a19
 https://l.db-link01.top/link/mcRDCTAfHQXPjJhu?list=shadowrocket
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=ff5fd444baaadb92d8aaa3040855b24e
-https://subs.xttlove.uk/api/v1/client/subscribe?token=a5c52bd6b40110375e4163539bf4036e#rename=@-0.2x
 https://subscribe2628.lanmaoyun.icu/api/v1/client/subscribe?token=211c9f792574cad9261aabf37df75f87
+https://subs.xttlove.uk/api/v1/client/subscribe?token=a5c52bd6b40110375e4163539bf4036e#rename=@-0.2x
 
 
 -- sub_list --
