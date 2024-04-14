@@ -14,6 +14,8 @@ https://xn--pssq69d.xyz/api/v1/client/subscribe?token=6b87bc457f05647ec55b9b199a
 https://install.cdn-sd.xyz/api/v1/client/subscribe?token=5cd9f6a51dbd9d8d0faaeafc3efcf19a&amp;flag=clash
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
 https://sub123.71345.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
+https://ymjc.cfd/api/v1/client/subscribe?token=2e92969e717a420a17e2d9f5f24d6c68
+https://ceshi.888451.xyz/api/v1/client/subscribe?token=cf4c9c44f92918944b5b27d1311b45be
 https://cm-sub.pz.pe/subscribe/RH38BUSQ3IRD8NPS?node=mix
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
@@ -22,7 +24,6 @@ https://sub.tgzdyz2.xyz/sub
 https://l.db-link01.top/link/mcRDCTAfHQXPjJhu?list=shadowrocket
 https://v.spwvpn.com/api/v1/client/subscribe?token=8ecf69f74ec1f576a0d1504398a19065
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
-https://ymjc.cfd/api/v1/client/subscribe?token=2e92969e717a420a17e2d9f5f24d6c68
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=ff5fd444baaadb92d8aaa3040855b24e
 https://subs.xttlove.uk/api/v1/client/subscribe?token=a5c52bd6b40110375e4163539bf4036e#rename=@-0.2x
 
@@ -89,6 +90,7 @@ https://b.xiaow.cc/api/v1/client/subscribe?token=270ddd7e8d1d1ef69dc2ff7e4202088
 https://b.xiaow.cc/api/v1/client/subscribe?token=69872ceb46e1818330249b87a12a1484
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d&amp;flag=clash
 https://ceshi.888451.xyz/api/v1/client/subscribe?token=1921a59acd25813ff574b3c7f1597f69
+https://ceshi.888451.xyz/api/v1/client/subscribe?token=cf4c9c44f92918944b5b27d1311b45be
 https://ceshi.888451.xyz/api/v1/client/subscribe?token=d59d4f35ec6294c8d5554e2c35864653
 https://ceshi.888451.xyz/api/v1/client/subscribe?token=d59d4f35ec6294c8d5554e2c35864653&amp;types=hysteria2
 https://ceshi.888451.xyz/api/v1/client/subscribe?token=d8c464b8d50c70d8f0d099cb81e3639e&amp;types=hysteria2
