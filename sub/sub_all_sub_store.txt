@@ -1,7 +1,6 @@
 -- play_list --
 
 
-https://u4dqz2t0x576.syynweb.shop/api/v1/client/subscribe?token=3bdd372f7060ebdd3312ebbd4d961160
 https://m11.spwvpn.com/api/v1/client/subscribe?token=0e687022baf3189792d4ea73ef82584d
 https://m11.spwvpn.com/api/v1/client/subscribe?token=806b9a40bc236267bcba19de4fb2ba21
 https://api.xqc.best/api/v1/client/subscribe?token=d2b3434d2072026c1f7553f5616f34c7
@@ -12,7 +11,6 @@ https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?
 http://api.123417.xyz/api/v1/client/subscribe?token=84b21c9ad6dd351239d50994542e2137
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
 https://sub123.71345.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
-https://dy.smjc.top/api/v1/client/subscribe?token=9ff16a38443177e29ec54959a6f110ca
 https://cm-sub.pz.pe/subscribe/RH38BUSQ3IRD8NPS?node=mix
 https://l.db-link01.top/link/BauoUCZPTZWvzQgK?clash=1
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
@@ -22,8 +20,8 @@ https://l.db-link01.top/link/mcRDCTAfHQXPjJhu?list=shadowrocket
 https://v.spwvpn.com/api/v1/client/subscribe?token=8ecf69f74ec1f576a0d1504398a19065
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=ff5fd444baaadb92d8aaa3040855b24e
-https://subs.xttlove.uk/api/v1/client/subscribe?token=a5c52bd6b40110375e4163539bf4036e#rename=@-0.2x
 https://ceshi.888451.xyz/api/v1/client/subscribe?token=cf4c9c44f92918944b5b27d1311b45be
+https://subs.xttlove.uk/api/v1/client/subscribe?token=a5c52bd6b40110375e4163539bf4036e#rename=@-0.2x
 https://yes1.xn--mesv7f5toqlp.xyz/api/v1/client/subscribe?token=460c7adb50c9ba8660589f3ebf5eb989
 
 
