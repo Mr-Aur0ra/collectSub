@@ -1,8 +1,8 @@
 -- play_list --
 
 
-https://api.xqc.best/api/v1/client/subscribe?token=d2b3434d2072026c1f7553f5616f34c7
 https://myko.buzz/api/v1/client/subscribe?token=83ca80449bdc41ee3b868f0305299fcf
+https://api.xqc.best/api/v1/client/subscribe?token=d2b3434d2072026c1f7553f5616f34c7
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
 https://api1.xn--bnq37rc0nw50b.com/api/v1/client/subscribe?token=7e891a8671f49a61ece23064e98f9362&amp;flag=clashmeta
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d&amp;flag=clash
@@ -12,9 +12,8 @@ https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?
 https://sub123.71345.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
 https://jp.taishan1.pro/api/v1/client/subscribe?token=decbd7dd37b24d65a43b4bf05da2cdf9
 https://l.db-link01.top/link/BauoUCZPTZWvzQgK?clash=1
-https://cm-sub.pz.pe/subscribe/RH38BUSQ3IRD8NPS?node=mix
 https://myko.buzz/api/v1/client/subscribe?token=abd6451b03e658d413aafed59287d9a4
-https://freeflyingcloud.com/api/v1/client/subscribe?token=9ffa2bb8983bcdbcd366ced31c9677ca
+https://cm-sub.pz.pe/subscribe/RH38BUSQ3IRD8NPS?node=mix
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
 https://sub.tgzdyz2.xyz/sub
