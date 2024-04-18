@@ -2,6 +2,7 @@
 
 
 https://api.xqc.best/api/v1/client/subscribe?token=d2b3434d2072026c1f7553f5616f34c7
+https://a2673b60-aca1-48c2-a4ad-abeb518e18f9.fengchenginx.com/api/v1/client/subscribe?token=5545a2ce2b4ae32422112393c0a68a7f
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
 https://platform.djjc.cfd/api/v1/client/subscribe?token=8f2ada45a6cfe2f7e41b2a9fd6203e2c
 https://api1.xn--bnq37rc0nw50b.com/api/v1/client/subscribe?token=7e891a8671f49a61ece23064e98f9362&amp;flag=clashmeta
@@ -13,11 +14,10 @@ https://1st.sub-airport.com/api/v1/client/subscribe?token=5ef4ec7751819025fcba66
 http://api.123417.xyz/api/v1/client/subscribe?token=84b21c9ad6dd351239d50994542e2137
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
 https://sub123.71345.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
-https://fs123121.cdn.22.jiacdnd123456789.com/answer/land?token=5ad57ba4f689c71ff7f79e9202262d9a
-https://l.db-link01.top/link/BauoUCZPTZWvzQgK?clash=1
 http://ant77.top/api/v1/client/subscribe?token=d580223a12d39508006e655dbc34b0fa
 https://s.kingarthor.online/v3/subscr?id=9223aef7642d40478d3add2bcb9e2e69
-https://a2673b60-aca1-48c2-a4ad-abeb518e18f9.fengchenginx.com/api/v1/client/subscribe?token=5545a2ce2b4ae32422112393c0a68a7f
+https://fs123121.cdn.22.jiacdnd123456789.com/answer/land?token=5ad57ba4f689c71ff7f79e9202262d9a
+https://l.db-link01.top/link/BauoUCZPTZWvzQgK?clash=1
 https://l.db-link01.top/link/mcRDCTAfHQXPjJhu?list=shadowrocket
 https://cm-sub.pz.pe/subscribe/RH38BUSQ3IRD8NPS?node=mix
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
