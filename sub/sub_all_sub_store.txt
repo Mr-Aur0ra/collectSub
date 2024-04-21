@@ -10,8 +10,8 @@ https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?
 https://sub123.71345.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
 https://api1.xn--bnq37rc0nw50b.com/api/v1/client/subscribe?token=7e891a8671f49a61ece23064e98f9362&amp;flag=clashmeta
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=37fbe19f12135fcecfd47afe8641f6a6&amp;flag=clash
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
 https://ee7b114b-2dff-4e9d-b427-4d1c2ac2e12f.fengchenginx.com/api/v1/client/subscribe?token=fe66c6cf711470799a0db2ec52e94096
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
 https://ins77.link/api/v1/client/subscribe?token=e386f6757bb8478b76abf35875c7229b
 https://ac1f3b35-1d03-3a85-beab-258d8f23edc6.nginxdotu.xyz/link/kKmQMz7wmFbOlOuz?clash=1
 https://cm-sub.pz.pe/subscribe/RH38BUSQ3IRD8NPS?node=mix
