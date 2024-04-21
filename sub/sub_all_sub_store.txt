@@ -11,14 +11,15 @@ https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?
 https://sub123.71345.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
 https://api1.xn--bnq37rc0nw50b.com/api/v1/client/subscribe?token=7e891a8671f49a61ece23064e98f9362&amp;flag=clashmeta
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=37fbe19f12135fcecfd47afe8641f6a6&amp;flag=clash
-https://ac1f3b35-1d03-3a85-beab-258d8f23edc6.nginxdotu.xyz/link/kKmQMz7wmFbOlOuz?clash=1
 https://ins77.link/api/v1/client/subscribe?token=e386f6757bb8478b76abf35875c7229b
+https://ac1f3b35-1d03-3a85-beab-258d8f23edc6.nginxdotu.xyz/link/kKmQMz7wmFbOlOuz?clash=1
 https://cm-sub.pz.pe/subscribe/RH38BUSQ3IRD8NPS?node=mix
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
 https://my.catfaka.com/api/v1/client/subscribe?token=d1009fbf1bed248ecc3c046ab9d820fb
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
+https://sub.eyujichang.com/api/v1/client/subscribe?token=0c7b2b8bb2e443bd5e86bc3efd66ddbd
 https://subscribe.suwas.xyz/api/v1/client/subscribe?token=8db7a53c739be63e6836f4159361ccb2&amp;flag=meta
 
 
@@ -237,6 +238,7 @@ https://sub.dawanqukun.top/api/v1/client/subscribe?token=3892b144ec70dcae799731f
 https://sub.dawanqukun.top/api/v1/client/subscribe?token=8b3e33dc1e4262a6cc749c8e77780d5d
 https://sub.dawanqukun.top/api/v1/client/subscribe?token=a58558ed1d5807912f1adba0d3c19a8a
 https://sub.dawanqukun.top/api/v1/client/subscribe?token=b5110e759d304ea072461ccc16002c7a
+https://sub.eyujichang.com/api/v1/client/subscribe?token=0c7b2b8bb2e443bd5e86bc3efd66ddbd
 https://sub.eyujichang.com/api/v1/client/subscribe?token=54803fca6689f4c97b25a672e8ef787a&amp;types=hysteria2
 https://sub.fnf.xyz/link/2ct6674DsVryafSl?sub=1&amp;extend=1
 https://sub.onlineweb.work/api/v1/client/subscribe?token=54d2f37502f364cfd519901909b39d1d
