@@ -2,6 +2,7 @@
 
 
 https://api.xqc.best/api/v1/client/subscribe?token=d2b3434d2072026c1f7553f5616f34c7
+https://api.xqc.best/api/v1/client/subscribe?token=116ea138d237fe0cfa8e51c114062aae
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d&amp;flag=clash
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=91329feda803c29309d5eae3e2c9c004
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=3aea187e7c9c49b282b0b66e23cc1a89&amp;flag=clash
@@ -69,6 +70,7 @@ https://air.nicetive.site/api/v1/client/subscribe?token=a124f38f90d8cf695bf625ba
 https://api.fanss.vip/link/HsszgxYX4oQolvvB?clash=1
 https://api.hy2.lol/api/v1/client/subscribe?token=336a097e9e5cee2dcbf83ae1d085954c
 https://api.tshl.cc/link/ry6M2vbmr2bGYspl?mu=2
+https://api.xqc.best/api/v1/client/subscribe?token=116ea138d237fe0cfa8e51c114062aae
 https://api.xqc.best/api/v1/client/subscribe?token=1aa3685e5b5733edf53f0655a23df9af
 https://api.xqc.best/api/v1/client/subscribe?token=8f8265b9122af6234cb00d136beb282f
 https://api.xqc.best/api/v1/client/subscribe?token=d2b3434d2072026c1f7553f5616f34c7
