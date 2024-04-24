@@ -1,18 +1,16 @@
 -- play_list --
 
 
-https://l.db-link01.top/link/BauoUCZPTZWvzQgK?clash=1
 https://api.xqc.best/api/v1/client/subscribe?token=116ea138d237fe0cfa8e51c114062aae
 https://api.xqc.best/api/v1/client/subscribe?token=d2b3434d2072026c1f7553f5616f34c7
-https://7cd49968.nmsubs.com/api/v1/client/subscribe?token=306de9846288d80c11bab91be149edfa
+https://ac1f3b35-1d03-3a85-beab-258d8f23edc6.nginxdotu.xyz/link/kKmQMz7wmFbOlOuz?clash=1
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=91329feda803c29309d5eae3e2c9c004
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d&amp;flag=clash
-https://ac1f3b35-1d03-3a85-beab-258d8f23edc6.nginxdotu.xyz/link/kKmQMz7wmFbOlOuz?clash=1
+https://my.catfaka.com/api/v1/client/subscribe?token=d1009fbf1bed248ecc3c046ab9d820fb
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=3aea187e7c9c49b282b0b66e23cc1a89&amp;flag=clash
 https://api1.xn--bnq37rc0nw50b.com/api/v1/client/subscribe?token=7e891a8671f49a61ece23064e98f9362&amp;flag=clashmeta
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
 https://sub123.71345.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
-https://my.catfaka.com/api/v1/client/subscribe?token=d1009fbf1bed248ecc3c046ab9d820fb
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=37fbe19f12135fcecfd47afe8641f6a6&amp;flag=clash
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
 https://ymjc.cfd/api/v1/client/subscribe?token=2e92969e717a420a17e2d9f5f24d6c68
@@ -23,9 +21,11 @@ https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
 https://sub.tgzdyz2.xyz/sub
 https://ceshi.888451.xyz/api/v1/client/subscribe?token=d59d4f35ec6294c8d5554e2c35864653
 https://ceshi.888451.xyz/api/v1/client/subscribe?token=d59d4f35ec6294c8d5554e2c35864653&amp;types=hysteria2
+https://cloud.anyijc.top/api/v1/client/subscribe?token=87aaece102ffe77001472632d96562a3
 https://c.066664.xyz/api/v1/client/subscribe?token=5f9e5cfb9df37b6e666643c6c374a9b5
 https://ins77.link/api/v1/client/subscribe?token=e386f6757bb8478b76abf35875c7229b
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
+https://l.db-link01.top/link/BauoUCZPTZWvzQgK?clash=1
 https://lafuseevansbazc.only4subs.uk/api/v1/client/subscribe?token=c5a790f0f6b439d81337db372d560cc9&amp;flag=meta
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
 https://needay.xyz/api/v1/client/subscribe?token=6e0185ca618dd05758a924eb26106814
@@ -111,6 +111,7 @@ https://ceshi.888451.xyz/api/v1/client/subscribe?token=d59d4f35ec6294c8d5554e2c3
 https://ceshi.888451.xyz/api/v1/client/subscribe?token=d59d4f35ec6294c8d5554e2c35864653&amp;types=hysteria2
 https://ceshi.888451.xyz/api/v1/client/subscribe?token=d8c464b8d50c70d8f0d099cb81e3639e&amp;types=hysteria2
 https://checkhere.top/link/5tDM8LQTVrYh6JGh?clash=1
+https://cloud.anyijc.top/api/v1/client/subscribe?token=87aaece102ffe77001472632d96562a3
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
 https://cm-sub.pz.pe/subscribe/RH38BUSQ3IRD8NPS?node=mix
