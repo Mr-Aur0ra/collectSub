@@ -1,10 +1,9 @@
 -- play_list --
 
 
+https://l.db-link01.top/link/BauoUCZPTZWvzQgK?clash=1
 https://api.xqc.best/api/v1/client/subscribe?token=116ea138d237fe0cfa8e51c114062aae
 https://api.xqc.best/api/v1/client/subscribe?token=d2b3434d2072026c1f7553f5616f34c7
-https://c.066664.xyz/api/v1/client/subscribe?token=5f9e5cfb9df37b6e666643c6c374a9b5
-https://l.db-link01.top/link/BauoUCZPTZWvzQgK?clash=1
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=91329feda803c29309d5eae3e2c9c004
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d&amp;flag=clash
 https://ac1f3b35-1d03-3a85-beab-258d8f23edc6.nginxdotu.xyz/link/kKmQMz7wmFbOlOuz?clash=1
@@ -25,9 +24,10 @@ https://ceshi.888451.xyz/api/v1/client/subscribe?token=d59d4f35ec6294c8d5554e2c3
 https://ceshi.888451.xyz/api/v1/client/subscribe?token=d59d4f35ec6294c8d5554e2c35864653&amp;types=hysteria2
 https://ins77.link/api/v1/client/subscribe?token=e386f6757bb8478b76abf35875c7229b
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
-https://xn--cp3a08l.com/api/v1/client/subscribe?token=d001fb1e64772cf406f60bb92e82fb9f
+https://c.066664.xyz/api/v1/client/subscribe?token=5f9e5cfb9df37b6e666643c6c374a9b5
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
 https://lafuseevansbazc.only4subs.uk/api/v1/client/subscribe?token=c5a790f0f6b439d81337db372d560cc9&amp;flag=meta
+https://needay.xyz/api/v1/client/subscribe?token=6e0185ca618dd05758a924eb26106814
 
 
 -- sub_list --
@@ -214,6 +214,7 @@ https://mytoken.huyun.nl/api/v1/client/subscribe?token=5a142252bc2760f51ce198e3c
 https://n3.leensasub.net/api/v1/client/subscribe?token=a9bf7a3eff3efe50b922eefaf91e65e3
 https://nano.nachoneko.cn//api/v1/client/subscribe?token=787b48a9d603f6bb66b70ebe83bdb608
 https://needay.net/api/v1/client/subscribe?token=c44d0b029c5a24544aff4b70b641596c
+https://needay.xyz/api/v1/client/subscribe?token=6e0185ca618dd05758a924eb26106814
 https://neko.hnekocloud.top/api/v1/client/subscribe?token=cb22ee7107f3dff68b01c3b330ae4a1e
 https://net.17181922.xyz/api/v1/client/subscribe?token=8460d95cbbb5b019dd9fa5eaaca46a40
 https://node.666666222.xyz/api/v1/client/subscribe?token=3df8d9a0407be7fd7ce4acbd7b4c03ae
