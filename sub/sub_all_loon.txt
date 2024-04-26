@@ -1,3 +1,3 @@
-https://needay.xyz/api/v1/client/subscribe?token=6e0185ca618dd05758a924eb26106814
+https://sub.miku.llc/api/v1/mikuyyds?token=22634dcc9ea6807cbd264f3d6d8c2a33
+https://sub123.71345.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
 https://api.xqc.best/api/v1/client/subscribe?token=d2b3434d2072026c1f7553f5616f34c7
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=3aea187e7c9c49b282b0b66e23cc1a89&amp;flag=clash
