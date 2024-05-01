@@ -10,6 +10,7 @@ https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
 https://pqjc.site/api/v1/client/subscribe?token=ca09d4f1cc35e3fcaef9f4856a0f7ad9
 https://cm-sub.pz.pe/subscribe/RH38BUSQ3IRD8NPS?node=mix
+https://www.awyyds.one/api/v1/client/subscribe?token=1bd2ee8438f43cbf2fc650d56b15e923
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
 https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
@@ -330,6 +331,7 @@ https://v2.ixlmo.com/api/v1/client/subscribe?token=df0f4b5a54985a2ff438e8c0d4d00
 https://vodfavor.top/api/v1/client/subscribe?token=1454aa4b7e7ee48ae697f697c1199bff
 https://wdsl88cc-sl.shenlong.wiki/api/v1/client/subscribe?token=adcb04cbb47c91e742dcb7d16bd2f875
 https://webridge.pokeryun.link/api/v1/client/subscribe?token=e34040eda6f7864ef8573b57214c6f55
+https://www.awyyds.one/api/v1/client/subscribe?token=1bd2ee8438f43cbf2fc650d56b15e923
 https://www.bitduct.net/api/v1/client/subscribe?token=2fdd9776bf27de99555522340ddf436d
 https://www.ccsub.online/link/l2gMrWO1W0oK0dZz?clash=1
 https://www.dabai.in/link/qrWBdYEZPKr61KkM?list=shadowrocket
