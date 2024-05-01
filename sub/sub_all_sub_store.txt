@@ -3,15 +3,12 @@
 
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d&amp;flag=clash
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=91329feda803c29309d5eae3e2c9c004
-https://0d2th.no-mad-world.club/link/dacqbivsqysnpzlq?clash=3&amp;extend=1
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
 https://sub123.71345.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=3aea187e7c9c49b282b0b66e23cc1a89&amp;flag=clash
-https://ipngc.no-mad-world.club/link/nnaCD6oVR3L5GrBq?shadowrocket=1
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
-https://www.stewed.top/api/v1/client/subscribe?token=50f4af11f802291470854d607951183a&amp;flag=clash
-https://www.stewed.top/api/v1/client/subscribe?token=50f4af11f802291470854d607951183a
+https://update.glados-config.com/clash/478427/f88d37b/72376/glados.yaml
 https://pqjc.site/api/v1/client/subscribe?token=ca09d4f1cc35e3fcaef9f4856a0f7ad9
 https://cm-sub.pz.pe/subscribe/RH38BUSQ3IRD8NPS?node=mix
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
@@ -19,12 +16,12 @@ https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
 https://cloud.anyijc.top/api/v1/client/subscribe?token=87aaece102ffe77001472632d96562a3
 https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
 https://pqjc.site/api/v1/client/subscribe?token=e767135e00a58db0af9ab980ab5bebae
+https://www.bitduct.net/api/v1/client/subscribe?token=2fdd9776bf27de99555522340ddf436d
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
 https://www.qlgq.top/link/1a8dfdcf700948f0?clash=1
 https://www.qlgq.top/link/c773a6bacd921a0d?clash=1
 https://api.xqc.best/api/v1/client/subscribe?token=116ea138d237fe0cfa8e51c114062aae
 https://subscribe.speedypro.xyz/api/v1/client/subscribe?token=kvi5e8eHTjJL5HeZd0ZMC5miUV4MHByq
-https://www.bitduct.net/api/v1/client/subscribe?token=2fdd9776bf27de99555522340ddf436d
 https://cfyun.top/api/v1/client/subscribe?token=e4d926c763aae405d54f2939d3bc2edf&amp;flag=meta
 https://mytoken.huyun.nl/api/v1/client/subscribe?token=5a142252bc2760f51ce198e3ca66046b
 
@@ -323,6 +320,7 @@ https://tugeda.xyz/api/v1/client/subscribe?token=571c9b14b04e590b01a08351d2d0be9
 https://tuzi226.top/api/v1/client/subscribe?token=c529db69ad56715b2af7109a676635d9
 https://u4dqz2t0x576.syynweb.shop/api/v1/client/subscribe?token=3bdd372f7060ebdd3312ebbd4d961160
 https://update.dotusub.xyz/link/mHCBWenDV6AXCWTB?clash=1
+https://update.glados-config.com/clash/478427/f88d37b/72376/glados.yaml
 https://url.funhub.cc/api/v1/client/subscribe?token=e47576e2325db216796f9497a8756193
 https://v.spwvpn.com/api/v1/client/subscribe?token=1002e14b0c5075ffea87e41953bcf3f1
 https://v.spwvpn.com/api/v1/client/subscribe?token=43b90b6a445f44ccb19da66749f6f7a4
