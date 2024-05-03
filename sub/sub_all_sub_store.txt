@@ -27,10 +27,10 @@ https://api.zzzzzl.me/api/v1/client/subscribe?token=e9b56f3eafe135ead8f7785a9a5e
 https://www.qlgq.top/link/c773a6bacd921a0d?clash=1
 https://sub.miku.llc/api/v1/mikuyyds?token=22634dcc9ea6807cbd264f3d6d8c2a33
 https://cfyun01.sbs/api/v1/client/subscribe?token=8430180f789a2ee089cec6307b2eaaa6
-https://knjc.cfd/api/v1/client/subscribe?token=93fbc809dc15f9fda045ab2ea50dd4ce&amp;flag=meta
 https://webget.yfjc.xyz/api/v1/client/subscribe?token=e1b57e5581aecbadc15791263f5d0b34&amp;flag=meta
-https://subscribe.speedypro.xyz/api/v1/client/subscribe?token=kvi5e8eHTjJL5HeZd0ZMC5miUV4MHByq
+https://knjc.cfd/api/v1/client/subscribe?token=93fbc809dc15f9fda045ab2ea50dd4ce&amp;flag=meta
 http://mine.subcsyun.online/api/v1/client/subscribe?token=3a6be87e843fc485455b28d116ecaab3
+https://subscribe.speedypro.xyz/api/v1/client/subscribe?token=kvi5e8eHTjJL5HeZd0ZMC5miUV4MHByq
 
 
 -- sub_list --
