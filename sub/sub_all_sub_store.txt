@@ -17,7 +17,6 @@ https://haitunyun.online/api/v1/client/subscribe?token=daf34e679d9fcd7784661ef91
 https://myko.buzz/api/v1/client/subscribe?token=289620037db8e83ae0a93605bea84b11
 https://sub1.timeneverchanges.com/api/v1/client/subscribe?token=0d7377070788c87d77d6fa3f3749a8b0
 https://cm-sub.pz.pe/subscribe/RH38BUSQ3IRD8NPS?node=mix
-https://www.w1y1.xyz/api/v1/client/subscribe?token=a98c4c0c53b0cff5ab5db5c191f202f9
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
 https://595780.xyz/api/v1/client/subscribe?token=675d2fd1e7221fe2ce884f3f097d914a
