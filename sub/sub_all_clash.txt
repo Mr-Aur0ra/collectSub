@@ -1,9 +1,4 @@
-http://vip.365cloud.me/api/v1/client/subscribe?token=1b361a84a84e233a1f110829ff572436
-https://bptz.xyz/api/v1/client/subscribe?token=e26146d74f1ac44a4fbdc7546c4e0972
-https://a2789293-639e-49f5-9506-c8040b488438.nginxxy.xyz/api/v1/client/subscribe?token=cb166f965cc95385fefbf0b1bd6fdd2a
-https://cloud.yydschina.top/api/v1/client/subscribe?token=7783d526d0858c934f3e424b8c25f5e2
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
+http://hpyjc.top/api/v1/client/subscribe?token=8eba1d79f60c7e699cc0ce771b68a2c4
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=3aea187e7c9c49b282b0b66e23cc1a89&amp;flag=clash
+https://api.acaisbest.shop/api/v1/client/subscribe?token=8c688dd0c67cfa63f989f0689ada2ddf
 https://gbshct.spphhnhg.top/link/lIgMcMSUd6HLrYoSHOIaLN6AQwv8ug6e?sub=3&amp;extend=1
-https://jixingnetwork.sbs/api/v1/client/subscribe?token=4ce6d278da81258b177ecb8bef5ec7fd
-https://qkt83qnp2yuj.subconnect.org/api/v1/client/subscribe?token=1e8bfdffbaa020209a08673f3d404a10
-https://oss.pithecia.com/api/v1/client/subscribe?token=483fcb626307bfbe1b4e67b6cdad87b7
