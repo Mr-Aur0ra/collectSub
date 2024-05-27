@@ -1,10 +1,6 @@
-http://api.123417.xyz/api/v1/client/subscribe?token=84b21c9ad6dd351239d50994542e2137
-https://csyun.t1csyun.shop/api/v1/client/subscribe?token=dd4c24fc24bcb5a036634a9607937158
-https://dy1.mmydy.xyz/api/v1/client/subscribe?token=ce14716a4feeacb84e73f212de0caff9
+http://s4.subcsyun.online/api/v1/client/subscribe?token=9ed73fe3e6c60bba9ba5f3d7fb9a9049
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
+https://dy1.mmydy.xyz/api/v1/client/subscribe?token=beb8a51741bfe25ef3b49d7e2f3f65e9
+https://dy.twittei.link/auto
 https://gbshct.spphhnhg.top/link/lIgMcMSUd6HLrYoSHOIaLN6AQwv8ug6e?sub=3&amp;extend=1
-http://dy.hpyjc.top/api/v1/client/subscribe?token=e49e20f28920511e029a02ff3acfd12a
-https://inangua.lwjyj.com/api/v1/client/subscribe?token=8e92fe4ff686c6de028a90589c0c49d8
-https://mojie.app/api/v1/client/subscribe?token=0ce896d17bde60480c9e1a8bb540b29e
-https://music.easygourl.xyz/link/IZL3EGvwN2i704vhJXXDAIWhzSnU6NGM?client=clash
-https://st-sub.fly.dev/v2b/fast/api/v1/client/subscribe?token=111995bc7081abfb6d65b73f702deef7&amp;flag
-https://yes1.xn--mesv7f5toqlp.xyz/api/v1/client/subscribe?token=460c7adb50c9ba8660589f3ebf5eb989
+https://config.huojian111.com/link/57BXs2kcnyMZ1sJ3?sub=3
