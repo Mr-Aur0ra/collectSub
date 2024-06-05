@@ -1,10 +1,3 @@
-http://dy.hpyjc.top/api/v1/client/subscribe?token=8eba1d79f60c7e699cc0ce771b68a2c4
-http://s4.subcsyun.online/api/v1/client/subscribe?token=9ed73fe3e6c60bba9ba5f3d7fb9a9049
-https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
-https://csyun.t1csyun.shop/api/v1/client/subscribe?token=40ee696db1e8c7a74986cddf11064620
+https://dy4.mmydy.xyz/api/v1/client/subscribe?token=f9ec5eb538cf88ff26798f46509e5bcb
 https://gbshct.spphhnhg.top/link/lIgMcMSUd6HLrYoSHOIaLN6AQwv8ug6e?sub=3&amp;extend=1
-https://inangua.lwjyj.com/api/v1/client/subscribe?token=8e92fe4ff686c6de028a90589c0c49d8
-https://sub.xn--mesv7f5toqlp.com/api/v1/client/subscribe?token=20dd1a943d617801d708ec230405db60
-https://st-sub.fly.dev/v2b/fast/api/v1/client/subscribe?token=111995bc7081abfb6d65b73f702deef7&amp;flag
-https://time1717401601.nginxcaiyun.xyz/api/v1/client/subscribe?token=f1cb8179fdf3828f2d4780006dbe3494
-https://www.tannel.xyz/link/UschoWctNOC78yhs?sub=3
+https://sulian.life/api/v1/client/subscribe?token=23a8d487f5225e7c05af6d84c4a38a82
