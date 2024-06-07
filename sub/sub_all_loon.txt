@@ -1,5 +1,5 @@
-https://dash.ftclashcloud.mom/api/v1/client/subscribe?token=1069a4f948b27ed6d7d5a95f212ccbd0
+https://bptz.xyz/api/v1/client/subscribe?token=e26146d74f1ac44a4fbdc7546c4e0972
 https://mc.jiedianxielou.workers.dev
-https://cococloud.online/api/v1/client/subscribe?token=4c2a813ad7579f6f6e38be576fd76350
-https://l.db-link01.top/link/1H9b3ZbQHuRbeGUP?clash=1
-https://service-p0v9tp46-1312645837.gz.apigw.tencentcs.com/api/v1/client/subscribe?token=a648e23b321ba13e0fff2a777c7746d0
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://dash.ftclashcloud.mom/api/v1/client/subscribe?token=1069a4f948b27ed6d7d5a95f212ccbd0
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
