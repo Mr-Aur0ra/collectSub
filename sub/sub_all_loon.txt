@@ -1,5 +1,7 @@
-https://bbjc.xyz/api/v1/client/subscribe?token=d9c6ad661324dbd9b18645f60415b440
-https://bbjc.xyz/api/v1/client/subscribe?token=e987563d673edb78f25b23268b022b9c
-https://sub1.bbjc.xyz/api/v1/client/subscribe?token=4e934776c0b7d9a7428ff4c87d1cacb5
+https://mc.jiedianxielou.workers.dev/
+https://bbjc.xyz/api/v1/client/subscribe?token=4a0d1428dd2ab3b71e7c55278bf0965c
+https://bbjc.xyz/api/v1/client/subscribe?token=ac5cbe15c198a19f67aea1f90b667a35
 https://fast.yt/sub/353bfbe55b9e9b33/clash
-https://sub123.71345.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
+https://bbjc.xyz/api/v1/client/subscribe?token=357c1cb1f5807136b3635b4bed9bc0ba
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
+http://vpn.gougouvpn.xyz:88/api/v1/client/subscribe?token=bb05f9ea73561817417629cbcadf538c
