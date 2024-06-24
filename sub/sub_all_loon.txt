@@ -1,5 +1,4 @@
 https://mc.jiedianxielou.workers.dev
-https://subs.zeabur.app/clash
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://qkt83qnp2yuj.subconnect.org/api/v1/client/subscribe?token=1e8bfdffbaa020209a08673f3d404a10
 https://mc.jiedianxielou.workers.dev/
-http://vpn.gougouvpn.xyz:88/api/v1/client/subscribe?token=bb05f9ea73561817417629cbcadf538c
+https://doucat.top/api/v1/client/subscribe?token=22f5e6fdbb09ed0c8ff29569556f72e9
