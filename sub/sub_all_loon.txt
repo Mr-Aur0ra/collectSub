@@ -1,6 +1,3 @@
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
 https://subs.zeabur.app/clash
 https://mc.jiedianxielou.workers.dev
-https://mc.jiedianxielou.workers.dev/
-https://fast.yt/sub/353bfbe55b9e9b33/clash
-https://422.jcool.cool/api/v1/client/subscribe?token=7651bcba974baefaf929e408444d27d4&amp;amp;ttoken=767d2f8ed5d21a44b
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
