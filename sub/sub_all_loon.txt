@@ -1,6 +1,6 @@
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
-https://mc.jiedianxielou.workers.dev
-https://mc.jiedianxielou.workers.dev/
-https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
-http://vpn.gougouvpn.xyz:88/api/v1/client/subscribe?token=bb05f9ea73561817417629cbcadf538c
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d
+https://subs.zeabur.app/clash
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=3aea187e7c9c49b282b0b66e23cc1a89&amp;flag=clash
+https://0415.chun-auto-one.xyz/api/v1/client/subscribe?token=fe4e2280fff38b11c2fc10ae725a753c
+https://www.qlgq.top/link/1a8dfdcf700948f0?clash=1
+https://too.st/a8K
