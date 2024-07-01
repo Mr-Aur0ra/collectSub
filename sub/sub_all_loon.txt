@@ -1,4 +1,3 @@
-https://gyyun.top/api/v1/client/subscribe?token=a227cf22d0f58bcafdee31e55af6bffe
-https://sub3.bbjc.xyz/api/v1/client/subscribe?token=e7b928f6854f858c157e9aebb9191ae4
-https://gyyun.top/api/v1/client/subscribe?token=b4e64a8fee76609b73b37ccf97523616
-https://base64.bigwatermelon.org/api/v1/client/subscribe?token=62c5f829cb72c86a63101c91da69123b
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d&amp;flag=clash
+https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
+https://cloud.gyyun.top/api/v1/client/subscribe?token=21f9b17f63a629677d84f9173e4ec048
