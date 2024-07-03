@@ -1,4 +1,6 @@
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
-https://sub123.71345.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
-https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
-https://doata.net/link/kEyfKaMn02qL4Txt?sub=3
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
+http://msvpn.gougouvpn.xyz:88/api/v1/client/subscribe?token=ef7fe3ef9481e7d8b5894f750bd3d69b
+https://yiyolink.xyz/link/J6OpSJ9lfi1YHzQI?list=shadowrocket
+https://base64.bigwatermelon.org/api/v1/client/subscribe?token=62c5f829cb72c86a63101c91da69123b
+https://cloud.gyyun.top/api/v1/client/subscribe?token=569e0cf2bc421b70e7df67a4740fcc56
