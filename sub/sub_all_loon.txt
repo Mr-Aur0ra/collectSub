@@ -1,6 +1,7 @@
-https://base64.bigwatermelon.org/api/v1/client/subscribe?token=62c5f829cb72c86a63101c91da69123b
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d
-https://lzysub.online/api/v1/client/subscribe?token=bfd894d175c66b37ef41a3c03c529f09
-https://www.moonriver.sbs/api/v1/client/subscribe?token=12730f73cc2b7c3451b825974642aca6
-https://oss.pithecia.com/api/v1/client/subscribe?token=ffe1b79549a733f34c61fe4fba533920
-https://9527.bigbigwatermelon.com/api/v1/client/subscribe?token=a91422a7f63f828a453c1a9345348679
+http://msvpn.gougouvpn.xyz:88/api/v1/client/subscribe?token=ef7fe3ef9481e7d8b5894f750bd3d69b
+https://subs.zeabur.app/clash
+https://sub.yiri.dev/api/v1/client/subscribe?token=b0c01c76076d69431ce1fdff1eeb1624
+https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
+https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
+https://api.xn--14ra41gd24b.xyz/api/v1/client/subscribe?token=55829eb8e25c26ae742e5f54cd68dcb6&amp;flag=clashmeta
+https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
