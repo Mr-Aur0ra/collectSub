@@ -1,5 +1,7 @@
+https://base64.bigwatermelon.org/api/v1/client/subscribe?token=62c5f829cb72c86a63101c91da69123b
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=3aea187e7c9c49b282b0b66e23cc1a89&amp;flag=clash
 https://subs.zeabur.app/clash
-https://api.xn--14ra41gd24b.xyz/api/v1/client/subscribe?token=55829eb8e25c26ae742e5f54cd68dcb6
-https://yiyolink.xyz/link/J6OpSJ9lfi1YHzQI?sub=2
-https://www.qlgq.top/link/1a8dfdcf700948f0?clash=1
-https://gyyun.top/api/v1/client/subscribe?token=b4e64a8fee76609b73b37ccf97523616
+https://duijie.cfyun.top/api/v1/client/subscribe?token=9dbea5a02c4c40b29f6795d13d06800a
+https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
+https://cloud.gyyun.top/api/v1/client/subscribe?token=c9b5f5a37312c81acf92aaba2e694ba3
+http://msvpn.gougouvpn.xyz:88/api/v1/client/subscribe?token=9ff4246cba59721acc3c74bd893d1886
