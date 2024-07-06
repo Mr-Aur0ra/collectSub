@@ -1,5 +1,6 @@
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=3aea187e7c9c49b282b0b66e23cc1a89
-https://yiyolink.xyz/link/J6OpSJ9lfi1YHzQI?sub=2
-https://api.bigme.online:8211/api/v1/client/subscribe?token=6674c05d3297078394f93ece18e5be9c
-http://dingyue2.qyjc.xyz/api/v1/client/subscribe?token=55be191adc2c919537a823623bb1e02a
-https://m2net.sbs/api/v1/client/subscribe?token=00977be5181e74d90c09a412e3e66efd
+http://msvpn.gougouvpn.xyz:88/api/v1/client/subscribe?token=ef7fe3ef9481e7d8b5894f750bd3d69b
+https://yiyolink.xyz/link/J6OpSJ9lfi1YHzQI?clash=1
+http://s3.subcsyun.online/api/v1/client/subscribe?token=ad8995f33722feef0d16e3bcb7c2dd8b
+https://ceshi.888451.xyz/api/v1/client/subscribe?token=cf4c9c44f92918944b5b27d1311b45be
+https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
+https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
