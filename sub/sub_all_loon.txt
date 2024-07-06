@@ -1,3 +1,5 @@
-https://subs.zeabur.app/clash
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
-https://a94d418e-1898-42df-bcf2-d970a5f3a939.mysubsoft.com/api/v1/client/subscribe?token=1cb8e0050af86604a7638c6c1a91e3f9
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=3aea187e7c9c49b282b0b66e23cc1a89
+https://yiyolink.xyz/link/J6OpSJ9lfi1YHzQI?sub=2
+https://api.bigme.online:8211/api/v1/client/subscribe?token=6674c05d3297078394f93ece18e5be9c
+http://dingyue2.qyjc.xyz/api/v1/client/subscribe?token=55be191adc2c919537a823623bb1e02a
+https://m2net.sbs/api/v1/client/subscribe?token=00977be5181e74d90c09a412e3e66efd
