@@ -1,4 +1,5 @@
 https://subs.zeabur.app/clash
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d
-https://chaozhijc.xyz/api/v1/client/subscribe?token=e37a86887ec3604a97ba68cc63cdc1f3
-https://9527.bigbigwatermelon.com/api/v1/client/subscribe?token=a91422a7f63f828a453c1a9345348679
+http://dingyue3.qyjc.xyz/api/v1/client/subscribe?token=e62a527fe908e7486693137f9f65174e
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
+https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
