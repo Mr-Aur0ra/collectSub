@@ -1,3 +1,1 @@
-https://cloud.gyyun.top/api/v1/client/subscribe?token=569e0cf2bc421b70e7df67a4740fcc56
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
-https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
+https://sub3.bbjc.xyz/api/v1/client/subscribe?token=e7b928f6854f858c157e9aebb9191ae4
