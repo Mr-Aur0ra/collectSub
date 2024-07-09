@@ -1,5 +1,6 @@
 http://s1.subcsyun.online/api/v1/client/subscribe?token=2354a92f0ce651a3b8ecfef4a45b52c0
-https://subs.zeabur.app/clash
-https://a94d418e-1898-42df-bcf2-d970a5f3a939.mysubsoft.com/api/v1/client/subscribe?token=1cb8e0050af86604a7638c6c1a91e3f9
+https://feiniaoyun11.life/api/v1/client/subscribe?token=fbfbabca19161b2c24dfa7bebb58fda7
+http://dingyue2.qyjc.xyz/api/v1/client/subscribe?token=55be191adc2c919537a823623bb1e02a
+http://msvpn.gougouvpn.xyz:88/api/v1/client/subscribe?token=ef7fe3ef9481e7d8b5894f750bd3d69b
 https://cloud.gyyun.top/api/v1/client/subscribe?token=c9b5f5a37312c81acf92aaba2e694ba3
-https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
+https://cloud.gyyun.top/api/v1/client/subscribe?token=21f9b17f63a629677d84f9173e4ec048
