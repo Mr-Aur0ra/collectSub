@@ -1,2 +1,4 @@
-https://api1.okaycloud.top/api/v1/client/subscribe?token=c6d92f2ae6529ce52822454be3495dec
-https://www.qlgq.top/link/1a8dfdcf700948f0?clash=1
+https://subs.zeabur.app/clash
+https://lzysub.online/api/v1/client/subscribe?token=bfd894d175c66b37ef41a3c03c529f09
+https://sub.chasing.sbs:21600/api/v1/client/subscribe?token=0283f58bbc10bdcec24ce46ad4ffa82d
+https://cloud.gyyun.top/api/v1/client/subscribe?token=c9b5f5a37312c81acf92aaba2e694ba3
