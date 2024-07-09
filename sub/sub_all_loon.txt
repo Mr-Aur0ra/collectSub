@@ -1,5 +1,2 @@
-https://sub1.timeneverchanges.com/api/v1/client/subscribe?token=db963cec4b48c63da38a10ea8e7b4c9a
-http://s1.subcsyun.online/api/v1/client/subscribe?token=2354a92f0ce651a3b8ecfef4a45b52c0
-https://subs.zeabur.app/clash
-https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
-https://m2net.sbs/api/v1/client/subscribe?token=00977be5181e74d90c09a412e3e66efd
+https://api2.okaycloud.top/api/v1/client/subscribe?token=d9ae110206ec8950de916ce3218cfb90
+https://sub123.71345.xyz/api/v1/client/subscribe?token=8be8ebe8fc22637997c0c60e60d3cf62
