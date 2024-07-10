@@ -1,6 +1,7 @@
-http://s1.subcsyun.online/api/v1/client/subscribe?token=2354a92f0ce651a3b8ecfef4a45b52c0
 https://sub.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e789af55b4k961d01
-https://sub1.timeneverchanges.com/api/v1/client/subscribe?token=db963cec4b48c63da38a10ea8e7b4c9a
-https://subs.zeabur.app/clash
-https://sub.chasing.sbs:21600/api/v1/client/subscribe?token=0283f58bbc10bdcec24ce46ad4ffa82d
-https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
+http://api-0609.m55u97uleod7lm5.download/api/v1/client/subscribe?token=7e0b3996a0aaf1bf13c0a7ba55ca11fe
+https://sub123.71345.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
+https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
+https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
+https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
+https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
