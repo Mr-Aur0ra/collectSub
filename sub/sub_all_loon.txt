@@ -1,7 +1,6 @@
-https://sub1.tg-mfjd666.cloudns.be/api/v1/client/subscribe/token=598adee7147c414593f29c74cfade831f4d95313f786bb749ca643ea23bb0fd3
-https://subs.zeabur.app/clash
+https://mc.jiedianxielou.workers.dev
 https://sub123.71345.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
-https://mojie.app/api/v1/client/subscribe?token=9b796d79905a49c1f75139a9f5650b7f
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
-https://pqjc.site/api/v1/client/subscribe?token=d72420f011a90e10350608a7fc8f3645&amp;flag=meta
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
+https://sub.xn--mesv7f5toqlp.com/api/v1/client/subscribe?token=20dd1a943d617801d708ec230405db60
