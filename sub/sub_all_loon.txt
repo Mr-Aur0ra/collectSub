@@ -1,8 +1,5 @@
-https://subs.zeabur.app/clash
-https://csicd782-isu.acyunv.buzz/api/v1/client/subscribe?token=c0cfd8deda4283d0ac7d0aef136f2d79
 https://mc.jiedianxielou.workers.dev/
+https://subs.zeabur.app/clash
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://syynweb.shop/api/v1/client/subscribe?token=f8c376caa12b91d4d8a0c54204c169fc
-https://d.palu123.com/apk/go/client/banzou?token=6c16121cf3f11467566dbd1eecb9c36a&amp;flag=meta
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d
-https://www.360vpn.org/api/v1/client/subscribe?token=911dd116273f0e76db9ea247bba5138c
+https://mc.jiedianxielou.workers.dev
+https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
