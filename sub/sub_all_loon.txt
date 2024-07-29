@@ -1,8 +1,7 @@
-https://mc.jiedianxielou.workers.dev
+https://subs.zeabur.app/clash
 https://sub123.71345.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
 https://cdn.fraternizey.com/api/v1/client/subscribe?token=de6452de3a631d1006da3981fef4430a
-https://mc.jiedianxielou.workers.dev/
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
-https://sub.chasing.sbs:21600/api/v1/client/subscribe?token=1111911048479f1c4716cc7a0302cc63
-https://www6.1st-subscription-from-chickenfarmer.top/api/v1/client/subscribe?token=2f68b0e25658abb134c8be8b59cf0faf
-https://wws.s2fjeyeeyafe.bond/api/v1/client/subscribe?token=e0e066b5e6ea55ac90d704031505df2c&amp;flag=meta
+https://mc.jiedianxielou.workers.dev
+https://sub.lzyjc.xyz/api/v1/client/subscribe?token=bfd894d175c66b37ef41a3c03c529f09
+http://s.33y.run/v3/subscr?id=cb971d1363e54209a70efbce92ce41ef
+http://www.pingzicloud.top/api/v1/client/subscribe?token=08b9a8c1cbf7d387c6229418ee83c5d0
