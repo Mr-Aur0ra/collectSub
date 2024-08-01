@@ -1,6 +1,6 @@
-https://sub-01.767564.xyz/api/v1/client/subscribe?token=bf7830b16efdaff6c7bd7f6ec086e80f
-https://neolink.nkkc.one/api/v1/client/subscribe?token=0ec8fa1dce2d03072a8ec2a36b79ec1c
+https://sub123.71345.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
+https://mc.jiedianxielou.workers.dev/
 http://panda.xn--lbrx91akmhm30c.com/api/v1/client/subscribe?token=bdde3a1e8dd64ebe24f3e432130b900f
-https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
-https://getinfo.bigbigwatermelon.com/api/v1/client/subscribe?token=a3fe37757d77f2e3b46036ef1aebf864
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
+https://getinfo.bigbigwatermelon.com/api/v1/client/subscribe?token=6703942b160d96949635c9c9aa3d758d
