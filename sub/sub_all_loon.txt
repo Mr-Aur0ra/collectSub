@@ -1,6 +1,7 @@
 https://mc.jiedianxielou.workers.dev
-https://music.easygourl.xyz/link/vs68cXJ8nCtMD0yucOtoLTy2yKqdiT5D?config=all
-https://music.easygourl.xyz/link/5es7NDNcGvgk0ETAF0wvdJRCrGEGvCAo?config=all
-https://time1721057549.nginxcaiyun.xyz/api/v1/client/subscribe?token=0b02e082e6dddee3f782213be16674d0
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=7eb7f9c181fe90a98a53d28b1a905b5d
-https://sub.marsix.cc/api/v1/client/subscribe?token=dea7a8cb1499eb7b61c627049a9c2493
+https://subs.zeabur.app/clash
+https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
+https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
+https://mytoken-1.huyun.nl/api/v1/client/subscribe?token=19c5599c344d4d217785176fee5d6829
+https://getinfo.bigbigwatermelon.com/api/v1/client/subscribe?token=d12e9b25c3d29f8722e418fd0c286af2
+https://www6.1st-subscription-from-chickenfarmer.top/api/v1/client/subscribe?token=2f68b0e25658abb134c8be8b59cf0faf
