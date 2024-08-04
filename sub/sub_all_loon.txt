@@ -1,8 +1,6 @@
-https://su-b.yun.cat/api/v1/client/subscribe?token=75e8a0dfe32733a947ea0a526ba26fc2
-https://sub1.huy.0.srl/api/v1/client/subscribe?token=714709dbd3538871e4ef078e531107e0
-https://time1721057549.nginxcaiyun.xyz/api/v1/client/subscribe?token=0b02e082e6dddee3f782213be16674d0
-https://sub.chasing.sbs:21600/api/v1/client/subscribe?token=1111911048479f1c4716cc7a0302cc63
-https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
-https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
-https://ddd.trc20.top/api/v1/client/subscribe?token=3db3b1f22d03ded5e10d10d3e81e8c71
-https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
+https://sub-01.767564.xyz/api/v1/client/subscribe?token=bf7830b16efdaff6c7bd7f6ec086e80f
+https://music.easygourl.xyz/link/5es7NDNcGvgk0ETAF0wvdJRCrGEGvCAo?config=all
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://wws.s2fjeyeeyafe.bond/api/v1/client/subscribe?token=e0e066b5e6ea55ac90d704031505df2c&amp;flag=meta
