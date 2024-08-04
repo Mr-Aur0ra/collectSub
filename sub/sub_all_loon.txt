@@ -1,5 +1,8 @@
-https://sub.chasing.sbs:21600/api/v1/client/subscribe?token=0283f58bbc10bdcec24ce46ad4ffa82d
-https://nano.nachoneko.cn/api/v1/client/subscribe?token=cca4b7039bf58ed6a354d8191f287875
-https://oiiccdn.yydsii.com/api/v1/client/subscribe?token=2fc5163731d3420a630e4e067b27f22c
-https://fast.gfwstable.icu/api/v1/client/subscribe?token=1a293d17a863a114ea7bf8b676f98794
+https://music.easygourl.xyz/link/5es7NDNcGvgk0ETAF0wvdJRCrGEGvCAo?config=all
+https://music.easygourl.xyz/link/vs68cXJ8nCtMD0yucOtoLTy2yKqdiT5D?config=all
 https://mc.jiedianxielou.workers.dev/
+https://mc.jiedianxielou.workers.dev
+https://sub.chasing.sbs:21600/api/v1/client/subscribe?token=1111911048479f1c4716cc7a0302cc63
+https://lzysub.online/api/v1/client/subscribe?token=bfd894d175c66b37ef41a3c03c529f09
+https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
+https://getinfo.bigbigwatermelon.com/api/v1/client/subscribe?token=d12e9b25c3d29f8722e418fd0c286af2
