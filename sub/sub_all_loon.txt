@@ -1,6 +1,5 @@
-https://getinfo.bigbigwatermelon.com/api/v1/client/subscribe?token=a3fe37757d77f2e3b46036ef1aebf864
-https://mc.jiedianxielou.workers.dev/
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
 https://mc.jiedianxielou.workers.dev
-https://sub.lzyjc.xyz/api/v1/client/subscribe?token=bfd894d175c66b37ef41a3c03c529f09
-https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
-https://htcmi-20240805.mozhiti.top/api/v1/client/subscribe?token=5556e3d9039b796c29f1bb016fc9d4f8
+https://www.tannel.xyz/link/UschoWctNOC78yhs?sub=3
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
+https://getinfo.bigbigwatermelon.com/api/v1/client/subscribe?token=d12e9b25c3d29f8722e418fd0c286af2
