@@ -1,8 +1,5 @@
-https://music.easygourl.xyz/link/vs68cXJ8nCtMD0yucOtoLTy2yKqdiT5D?config=all
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
 https://mc.jiedianxielou.workers.dev
-https://lzysub.online/api/v1/client/subscribe?token=bfd894d175c66b37ef41a3c03c529f09
-https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
-https://doata.net/link/kEyfKaMn02qL4Txt?sub=3
-https://getinfo.bigbigwatermelon.com/api/v1/client/subscribe?token=6703942b160d96949635c9c9aa3d758d
-https://m2net.sbs/api/v1/client/subscribe?token=00977be5181e74d90c09a412e3e66efd
+https://music.easygourl.xyz/link/5es7NDNcGvgk0ETAF0wvdJRCrGEGvCAo?config=all
+https://music.easygourl.xyz/link/vs68cXJ8nCtMD0yucOtoLTy2yKqdiT5D?config=all
+https://sub1.timeneverchanges.com/api/v1/client/subscribe?token=1fa121960be5d6fbdf78f2207d9c5f1e
+https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
