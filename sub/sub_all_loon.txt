@@ -1,6 +1,7 @@
-https://mc.jiedianxielou.workers.dev
-https://mc.jiedianxielou.workers.dev/
-https://su-b.yun.cat/api/v1/client/subscribe?token=75e8a0dfe32733a947ea0a526ba26fc2
-https://music.easygourl.xyz/link/vs68cXJ8nCtMD0yucOtoLTy2yKqdiT5D?config=all
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
-https://www.tannel.xyz/link/UschoWctNOC78yhs?sub=3
+https://music.easygourl.xyz/link/IZL3EGvwN2i704vhJXXDAIWhzSnU6NGM?client=clash
+https://music.easygourl.xyz/link/5es7NDNcGvgk0ETAF0wvdJRCrGEGvCAo?config=all
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://auth.newlikebooks.xyz/api/v1/client/subscribe?token=8609a1945e395789541f5b10bb7e48b5
+https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
+https://getinfo.bigbigwatermelon.com/api/v1/client/subscribe?token=d12e9b25c3d29f8722e418fd0c286af2
+https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
