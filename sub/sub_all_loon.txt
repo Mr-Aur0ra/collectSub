@@ -1,6 +1,7 @@
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
 https://music.easygourl.xyz/link/5es7NDNcGvgk0ETAF0wvdJRCrGEGvCAo?config=all
+https://mc.jiedianxielou.workers.dev
+https://music.easygourl.xyz/link/IZL3EGvwN2i704vhJXXDAIWhzSnU6NGM?client=clash
 https://mc.jiedianxielou.workers.dev/
-http://372ae8252c9ce608c5f7066f2177dfb1.52pokemon.top/api/v1/client/subscribe?token=1ab3efabd1e55383dd419b5c98f1e3de
-http://s.33y.run/v3/subscr?id=cb971d1363e54209a70efbce92ce41ef
+https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
 https://sub.marsix.cc/api/v1/client/subscribe?token=dea7a8cb1499eb7b61c627049a9c2493
+https://wws.s2fjeyeeyafe.bond/api/v1/client/subscribe?token=a4bb2d2a253a62b0a105b92ee4aa8e18&amp;flag=meta
