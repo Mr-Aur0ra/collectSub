@@ -1,7 +1,6 @@
 -- play_list --
 
 
-https://linger.cc/api/v1/client/subscribe?token=6bae5740a05910d6b1369101852a15d5
 https://mc.jiedianxielou.workers.dev
 https://mc.jiedianxielou.workers.dev/
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
@@ -42,11 +41,11 @@ https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c9
 https://syyn.ianong.cn/api/v1/client/subscribe?token=c18551e475b956e1c7085827c7305e9e
 https://music.easygourl.xyz/link/T0SulVqfmruC1mRGQy4YuNSRHr6e57Qo?config=all
 https://xboard.texo.network/api/v1/client/subscribe?token=2cb102a47330e4d23aefa6fc48cf5bc4
-https://jindouyun88.life/api/v1/client/subscribe?token=9e747464d13d756b0d5641630b2dda13
 https://api.1vpn.sbs/api/v1/client/subscribe?token=666e3e7537a709448e495688006a0684
+https://jindouyun88.life/api/v1/client/subscribe?token=9e747464d13d756b0d5641630b2dda13
 https://link1.db-sub.xyz/link/e4Fa6gRx9sfoviJk?sub=3
-https://ymjc.cfd/api/v1/client/subscribe?token=f1a72451da2b47410631b52c889b4d9f
 https://ymjc.cfd/api/v1/client/subscribe?token=f1a72451da2b47410631b52c889b4d9f&amp;flag=meta
+https://ymjc.cfd/api/v1/client/subscribe?token=f1a72451da2b47410631b52c889b4d9f
 https://hx0618.xn--wqr30o34q.xn--io0a7i/api/v1/client/subscribe?token=121ba58bb4b6f87ef10f5ab0b4d028d9
 https://sub123.71345.xyz/api/v1/client/subscribe?token=67d0e817bbb631b2aa14bfe031334415
 https://doata.net/link/kEyfKaMn02qL4Txt?sub=3
@@ -54,6 +53,7 @@ https://www.360vpn.org/api/v1/client/subscribe?token=6f6ccf0795ad4b815b3a2609ef9
 https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
 https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
 https://ddd.trc20.top/api/v1/client/subscribe?token=3db3b1f22d03ded5e10d10d3e81e8c71
+https://link1.db-sub.xyz/link/c0m1TKa0rHNSXjP4?list=shadowrocket
 https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
 https://sub.abcdefghijklmnopqrstuvwxyz1234567890.xyz/api/v1/client/subscribe?token=581d073b715d254ab4ece3c2dbfaca3c
 https://pqjc.site/api/v1/client/subscribe?token=3d6eff5762bfb3897c2c811b1542de2d
@@ -67,8 +67,8 @@ https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLin
 http://103.196.20.127/api/v1/client/subscribe?token=f1279af04744dd54210317fd8ca4eb46
 https://wws.s2fjeyeeyafe.bond/api/v1/client/subscribe?token=a4bb2d2a253a62b0a105b92ee4aa8e18&amp;amp;flag=meta
 https://wws.s2fjeyeeyafe.bond/api/v1/client/subscribe?token=a4bb2d2a253a62b0a105b92ee4aa8e18&amp;flag=meta
-http://103.196.20.127/api/v1/client/subscribe?token=b54e2034bcbba8e8e982f368d6b49fab
 http://103.196.20.127/api/v1/client/subscribe?token=9f19fcc25b9345a928f76d7832dc7537
+http://103.196.20.127/api/v1/client/subscribe?token=b54e2034bcbba8e8e982f368d6b49fab
 https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
 
 
