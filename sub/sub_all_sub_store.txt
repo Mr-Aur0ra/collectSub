@@ -42,8 +42,8 @@ https://www.360vpn.org/api/v1/client/subscribe?token=911dd116273f0e76db9ea247bba
 https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
 https://music.easygourl.xyz/link/HxY88neuT7LKwCeD924p7XR7D1Rfeo16?clash=1
 https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
-https://ymjc.cfd/api/v1/client/subscribe?token=f1a72451da2b47410631b52c889b4d9f&amp;flag=meta
 https://ymjc.cfd/api/v1/client/subscribe?token=f1a72451da2b47410631b52c889b4d9f
+https://ymjc.cfd/api/v1/client/subscribe?token=f1a72451da2b47410631b52c889b4d9f&amp;flag=meta
 https://link1.db-sub.xyz/link/e4Fa6gRx9sfoviJk?sub=3
 https://music.easygourl.xyz/link/T0SulVqfmruC1mRGQy4YuNSRHr6e57Qo?config=all
 https://xboard.texo.network/api/v1/client/subscribe?token=2cb102a47330e4d23aefa6fc48cf5bc4
