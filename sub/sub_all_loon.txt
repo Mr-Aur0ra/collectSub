@@ -1,5 +1,6 @@
-https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
-https://sus.alicenetwork.cloud/api/v1/client/subscribe?token=469ec845b6a65c0d4f4c5c4f8ea4fd08
-https://cloud.asdkd.top//link/Gjv67p0oYsGI7J3c?sub=3
+https://subs.zeabur.app/clash
+https://api.1vpn.sbs/api/v1/client/subscribe?token=666e3e7537a709448e495688006a0684
+https://mc.jiedianxielou.workers.dev/
+https://mc.jiedianxielou.workers.dev
 https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
