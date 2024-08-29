@@ -1,6 +1,4 @@
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
-https://mydy.xlm.plus/api/v1/client/subscribe?token=2394b7914923c56721f7d27c3689f74f
-https://mc.jiedianxielou.workers.dev/
 https://duijie.pingziyun.top/api/v1/client/subscribe?token=94e912f06bd687f53837dc19718e6caf
-https://wws.s2fjeyeeyafe.bond/api/v1/client/subscribe?token=a4bb2d2a253a62b0a105b92ee4aa8e18&amp;amp;flag=meta
+https://lianjiasub.work/api/v1/client/subscribe?token=0e8c48216aedec40cc2f52b229d838c7
+https://mydy.xlm.plus/api/v1/client/subscribe?token=50c4667e9520358330737c6307dfdb52
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
