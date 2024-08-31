@@ -29,7 +29,6 @@ https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f
 https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
 https://sub1.timeneverchanges.com/api/v1/client/subscribe?token=ac6302bb615db969a96dc5fcfe4e98e7
 https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
-https://web888.naixue222.com/api/v1/client/subscribe?token=74838f5003c58877ea581d848c425a6f
 https://cm-sub.pz.pe/subscribe/RH38BUSQ3IRD8NPS?node=mix
 https://xn--wlqw2sc0nwqq.xyz/api/v1/client/subscribe?token=2f80bd01baa73fb9f4dac857544567b3
 https://mydy.xlm.plus/api/v1/client/subscribe?token=50c4667e9520358330737c6307dfdb52
