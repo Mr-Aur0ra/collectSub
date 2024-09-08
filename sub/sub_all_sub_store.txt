@@ -23,6 +23,8 @@ https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f
 https://sux.lol/api/v1/client/subscribe?token=9c57c11f99a9c0b53d3fc9d7800bef1a
 https://zero.76898102.xyz/link/CsElTBN1F3RqmjjQ?list=shadowrocket
 https://zero.76898102.xyz/link/T0MDjg1bJK13JKbv?list=shadowrocket
+https://zero.76898102.xyz/link/VJ93O5K98PneMoAA?list=shadowrocket
+https://zero.76898102.xyz/link/tm3RQPCHyZNqnEjg?list=shadowrocket
 https://wvw.guanxi.cloudns.be/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
 https://www.066664.xyz/api/v1/client/subscribe?token=5ec34216e7bbd89ef9cbe2741ebe3f7d&amp;flag=clash
 https://wm01dy.wmyun.men/api/v1/client/subscribe?token=c91d2a7db727bb5cb0586e654f3d0948
