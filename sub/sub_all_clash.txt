@@ -1,6 +1,5 @@
-https://422.jcool.cool/api/v1/client/subscribe?token=7651bcba974baefaf929e408444d27d4&amp;ttoken=767d2f8ed5d21a44b
-https://dzpd.jiedianxielou.workers.dev/api/v1/client/subscribe?token=bf64cd2b19ee10e66068fd94e335af79
-https://link1.db-sub.xyz/link/c0m1TKa0rHNSXjP4?list=shadowrocket
-https://node.yifang02.men/link/ryh0DwsGEWclH26m?sub=4
-https://sub.19993999.xyz/api/v1/client/subscribe?token=5e86905ce536430c6a5d081034486540
-https://update.glados-config.com/clash/453205/fa870f5/25488/glados.yaml
+https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
+https://dy.smjc.top/api/v1/client/subscribe?token=c0d7961b030f6a2b794424d16042a2a7
+https://link1.db-sub.xyz/link/e4Fa6gRx9sfoviJk?sub=3
+https://service-6l9168iy-1312645837.gz.apigw.tencentcs.com/api/v1/client/subscribe?token=50cce61874b985c0c99e50c6f659f20e
+https://sub.tku2.com/api/v1/client/subscribe?token=f42471e1da8b5ad07bcd676415c03f09
