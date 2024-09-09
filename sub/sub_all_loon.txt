@@ -1,6 +1,5 @@
 https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
-https://csgo.fask511.cfd/api/v1/client/subscribe?token=fda8d35f89c5e5afbb16dabfe4d56aa1
-https://su-b.yun.cat/api/v1/client/subscribe?token=75e8a0dfe32733a947ea0a526ba26fc2
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
-https://aigame.totwo.xyz/api/v1/client/subscribe?token=848bb34e4d85b5341fb6c779e6d9140d
-https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
+https://subs.zeabur.app/clash
+https://wm01dy.wmyun.men/api/v1/client/subscribe?token=c91d2a7db727bb5cb0586e654f3d0948
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://syyn.xyz/api/v1/client/subscribe?token=1b49383898b23801b5965869a6cb12d7
