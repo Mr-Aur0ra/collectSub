@@ -1,4 +1,6 @@
-https://music.easygourl.xyz/link/IZL3EGvwN2i704vhJXXDAIWhzSnU6NGM?client=clash
 https://su-b.yun.cat/api/v1/client/subscribe?token=75e8a0dfe32733a947ea0a526ba26fc2
-https://mc.jiedianxielou.workers.dev
-https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
+https://mc.jiedianxielou.workers.dev/
+https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
+https://cloud.asdkd.top//link/Gjv67p0oYsGI7J3c?sub=3
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+http://s.33y.run/v3/subscr?id=cb971d1363e54209a70efbce92ce41ef
