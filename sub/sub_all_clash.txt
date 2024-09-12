@@ -1,6 +1,11 @@
-https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=239bf6f70499ff0f80ca081f0a831d04
-https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
-https://link1.db-sub.xyz/link/e4Fa6gRx9sfoviJk?sub=3
-https://mc.jiedianxielou.workers.dev/
-https://update.glados-config.com/clash/478427/f88d37b/72376/glados.yaml
+https://a.jiedianxielou.workers.dev/api/v1/client/subscribe?token=bHl6RldjV3draTAyMjlHSXR2VW9haFk0ZE9iNWQ3eTVyVEl5RjlqQWJLMlliY2NkQUxVcG5wemFKN0JEdjFsbTZKTzVvS1lvenVCMW9TQWZTcW8vWStWZ3VUQmF6anJwMksrbXloTGhWS25KRWY2cUFVWT0
+https://b.jiedianxielou.workers.dev/api/v1/client/subscribe?token=lyzFWcWwki0708qf9?wkalYsYKGuePe5ry4yXcCFbL2BZtEQBvM4jsHdK6lPswFg?Z6z/K0hzuAk9CYZRPo5O7ZptTUHxD3s2Kj4mRe0Ww==
+https://cloud.yydschina.top/api/v1/client/subscribe?token=7783d526d0858c934f3e424b8c25f5e2
+https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=40f7985b72395792f4c7cf86898d4f5f
+https://dy.smjc.top/api/v1/client/subscribe?token=5bd7e01f6a299be186e5cd44f9c6c150
+https://music.easygourl.xyz/link/IZL3EGvwN2i704vhJXXDAIWhzSnU6NGM?client=clash
+https://mc.jiedianxielou.workers.dev
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
+https://sub.tku2.com/api/v1/client/subscribe?token=f42471e1da8b5ad07bcd676415c03f09
 https://time1721057549.nginxcaiyun.xyz/api/v1/client/subscribe?token=0b02e082e6dddee3f782213be16674d0
+https://xsus.wiki/api/v1/client/subscribe?token=d0bd22a534e76a5eb6aca4f3e60b5af5&amp;flag=clash
