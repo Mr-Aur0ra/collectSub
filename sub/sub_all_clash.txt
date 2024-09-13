@@ -1,13 +1,6 @@
-https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
+https://9527.bigbigwatermelon.com/api/v1/client/subscribe?token=bf334803b5f594aab2206ad6b060994d
 https://a.sdwan.im/api/v1/client/subscribe?token=e78d3e6b5749e0d342b9dc12ac28f6f2
-https://cedb4ccc-89b7-3a24-962c-ea8f65b11deb.aliyunsub.com/link/3kjWSxNGuWbqnUHP?sub=3&amp;extend=1
-https://csgo.fask511.cfd/api/v1/client/subscribe?token=f14e52e1b15c6547e982b23481533e87
-https://config.huojian111.com/link/57BXs2kcnyMZ1sJ3?sub=3
+https://api.xqc.best/api/v1/client/subscribe?token=116ea138d237fe0cfa8e51c114062aae
 https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=8ecf59b49c4a8893221934d0fc2c1986
-https://dy.smjc.top/api/v1/client/subscribe?token=c0d7961b030f6a2b794424d16042a2a7
-https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
-https://s6.ssysub1.xyz/api/v1/client/subscribe?token=fba3fbf541b89531535d17a732d54f8e
-https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
-https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
-https://update.glados-config.com/clash/453205/fa870f5/25488/glados.yaml
-https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
+https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
+https://sus.alicenetwork.cloud/api/v1/client/subscribe?token=ccd95233c40b93bb970b07b3337dc3f8
