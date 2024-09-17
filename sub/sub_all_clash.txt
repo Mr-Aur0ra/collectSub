@@ -1,10 +1,7 @@
-https://api.xqc.best/api/v1/client/subscribe?token=116ea138d237fe0cfa8e51c114062aae
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
-https://dy.smjc.top/api/v1/client/subscribe?token=1edf7f913abc80a550a1bba44361dc2c
-https://dzpd.jiedianxielou.workers.dev/?clash=1
-https://api.xinyo.vip/api/v1/client/subscribe?token=32766ad77e22239683fc3b9e2a06f4bd
-https://linke.phantasy.life/api/v1/client/subscribe?token=65f8bd6497356cbe1a375e6cf51c4ea2
-https://mlshu.xyz/api/v1/client/subscribe?token=4cabd6f21f4ae9dda02f1be1753f0fdb
-https://ng.69hub.cc/api/v1/client/subscribe?token=aac6c97c11763e9f663a4cca6b98f7fc
-https://prob.xn--l9qyaz082a.cn/api/v1/client/subscribe?token=43d0b091b796df96d53bbf52a73e1089
-https://sus.alicenetwork.cloud/api/v1/client/subscribe?token=819989e04f35b7479785023008386c5d
+https://a.jiedianxielou.workers.dev/api/v1/client/subscribe?token=UjBGOXVrdFBKYzl0dE04ODdacUFzOTlrTU04RGtOWk0vRUZzMGNUYWdTN0NoZ1pCVkR4ZnRpbW1iWmZDM2wvd3RVeFY3ekM4aHRwNmhIS0UrYkFhQlRHY1NBZWdxYnlEVkNlK2lpRW5aZ1M3RWN0Y1VvVT0
+https://csgo.fask511.cfd/api/v1/client/subscribe?token=b3a4ebe842dd5365ebc7820c647620dd
+https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
+https://doata.net/link/kEyfKaMn02qL4Txt?sub=3
+https://node.yifang02.men/link/ryh0DwsGEWclH26m?sub=4
+https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
+https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
