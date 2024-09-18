@@ -4,8 +4,6 @@
 https://mc.jiedianxielou.workers.dev
 https://mc.jiedianxielou.workers.dev/
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://music.easygourl.xyz/link/IZL3EGvwN2i704vhJXXDAIWhzSnU6NGM?client=clash
-https://music.easygourl.xyz/link/vs68cXJ8nCtMD0yucOtoLTy2yKqdiT5D?config=all
 https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
 https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
 https://csgo.fask511.cfd/api/v1/client/subscribe?token=b3a4ebe842dd5365ebc7820c647620dd
@@ -61,7 +59,6 @@ https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
 https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
 https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
 https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
-https://dyapp123.355m.cn/api/v1/client/subscribe?token=188936ff4e1a1ba668713dc7d3c6da3c
 https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
 
 
