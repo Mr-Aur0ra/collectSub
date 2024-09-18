@@ -1,7 +1,6 @@
-http://66ds.dishujichang.xyz/api/v1/client/subscribe?token=22d16f00edb53675927fe96093c7af1a
-https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=239bf6f70499ff0f80ca081f0a831d04
-https://l.db-link01.top/link/mcRDCTAfHQXPjJhu?list=shadowrocket
-https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
-https://service-fy4hli0a-1312645837.nj.apigw.tencentcs.com/api/v1/client/subscribe?token=6f4ee12ffa3d2ea32e0a2361833025fe
-https://subsubsubsubsub.keledydz.uk/api/v1/client/subscribe?token=059c1cbe704ce6bed83b78922b26150e
-https://tokenapi.fbcloud.lol/api/v1/client/subscribe?token=a4d36cac7f44e35225657f53008bc4ae
+https://doata.net/link/kEyfKaMn02qL4Txt?sub=3
+https://mc.jiedianxielou.workers.dev/
+https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023&amp;flag=meta
+https://sakuracat1203.xn--3iq226gfdb94q.com/api/v1/client/subscribe?token=1356f5110c60f1e8823a0962af290c72
+https://st-sub.fly.dev/v2b/fast/api/v1/client/subscribe?token=111995bc7081abfb6d65b73f702deef7&amp;flag
+https://xcyun.co/xe45lgf21?token=b0e4156ad42a2be48ca1f35ea73bee7e
