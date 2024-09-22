@@ -1,6 +1,5 @@
-https://csgo.fask511.cfd/api/v1/client/subscribe?token=65c790da485e084af5536d25ae33eb88
-https://csgo.fask511.cfd/api/v1/client/subscribe?token=b37029894a22d0f5dd69e5b38a1c30b2
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
+https://mc.jiedianxielou.workers.dev
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
+https://mc.jiedianxielou.workers.dev/
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://proc.xn--l9qyaz082a.cn/api/v1/client/subscribe?token=bd059c4675989a3d648768746743067d
+https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
