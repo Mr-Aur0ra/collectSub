@@ -1,1 +1,5 @@
+https://www.066664.xyz/api/v1/client/subscribe?token=5ec34216e7bbd89ef9cbe2741ebe3f7d&amp;flag=clash
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://subs.zeabur.app/clash
 http://66ds.dishujichang.xyz/api/v1/client/subscribe?token=22d16f00edb53675927fe96093c7af1a
+https://csgo.fask511.cfd/api/v1/client/subscribe?token=fda8d35f89c5e5afbb16dabfe4d56aa1
