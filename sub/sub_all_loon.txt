@@ -1,6 +1,5 @@
-https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
-https://12123.org/api/v1/client/subscribe?token=64c27e6ab2ac2f4b4629dcbd39c93556
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-https://gbtgurl.me/api/v1/client/subscribe?token=822cc4ca6f473feab94b5e36cf881e7c
-https://gbtgurl.me/api/v1/client/subscribe?token=546e4735dbf123f782dad5c4729369da
-https://sub-01.767564.xyz/api/v1/client/subscribe?token=de4a0ea7b988afba1a1072a3288d5390
+http://66ds.dishujichang.xyz/api/v1/client/subscribe?token=b65f146b09c16e19fa0b2acc76f311e5
+https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
+https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
+https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=f5bc22005796dfccb69d10bec1e1f8f2
+https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
