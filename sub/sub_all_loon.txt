@@ -1,6 +1,5 @@
-http://66ds.dishujichang.xyz/api/v1/client/subscribe?token=b65f146b09c16e19fa0b2acc76f311e5
-https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
-https://66c6d6.whisperingbreeze.cc/api/v1/client/subscribe?token=a5b5e1841a739fb0976ae0c2ea764848
-https://sub123.71345.xyz/api/v1/client/subscribe?token=67d0e817bbb631b2aa14bfe031334415
-https://bajie.info/api/v1/client/subscribe?token=1d51c1d2d9039efb3ef7ddac6d2c52e3
-https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
+https://csgo.fask511.cfd/api/v1/client/subscribe?token=6b2ec377a3eab7dcb819f52dca7891d4
+https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://haitunfree.luodaifan.top/haitunfree
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
