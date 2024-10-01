@@ -1,6 +1,7 @@
-https://api.xinyo.vip/api/v1/client/subscribe?token=5a563d7330dd13ce16ec909ea4257548
+https://sub-01.767564.xyz/api/v1/client/subscribe?token=de4a0ea7b988afba1a1072a3288d5390
+http://66ds.dishujichang.xyz/api/v1/client/subscribe?token=b65f146b09c16e19fa0b2acc76f311e5
+https://api.xinyo.vip/api/v1/client/subscribe?token=bb57e2195a6cabe24ed9469b3669aa0d
 https://mc.jiedianxielou.workers.dev/
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://mc.jiedianxielou.workers.dev
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
-https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
+https://api.xinyo.vip/api/v1/client/subscribe?token=5a563d7330dd13ce16ec909ea4257548
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
+https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=f5bc22005796dfccb69d10bec1e1f8f2
