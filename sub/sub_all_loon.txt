@@ -1,3 +1,5 @@
 https://mc.jiedianxielou.workers.dev
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
 https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
-https://12123.org/api/v1/client/subscribe?token=64c27e6ab2ac2f4b4629dcbd39c93556
+https://api.xinyo.vip/api/v1/client/subscribe?token=3493bd98dbb09cb1ba37f03a1796485e
+https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
