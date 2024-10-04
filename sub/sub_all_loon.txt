@@ -1,2 +1,3 @@
 https://api.xinyo.vip/api/v1/client/subscribe?token=3493bd98dbb09cb1ba37f03a1796485e
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://mc.jiedianxielou.workers.dev/
+https://study.jaycloud11111.top/study?token=ea9d115179b89ad752737bceaf1d1ce6
