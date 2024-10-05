@@ -1,7 +1,4 @@
+https://mc.jiedianxielou.workers.dev/
+https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=239bf6f70499ff0f80ca081f0a831d04
 https://mc.jiedianxielou.workers.dev
-https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023&amp;flag=meta
-https://9527.bigbigwatermelon.com/api/v1/client/subscribe?token=bf334803b5f594aab2206ad6b060994d
-https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
-https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
+https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
