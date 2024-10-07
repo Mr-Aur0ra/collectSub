@@ -1,6 +1,2 @@
-https://sub123.71345.xyz/api/v1/client/subscribe?token=95388132afab15570d496c96fe99474d
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-https://subs.zeabur.app/clash
-https://mc.jiedianxielou.workers.dev/
+https://mc.jiedianxielou.workers.dev
 https://free.ninecloud.co/api/v1/client/subscribe?token=a5276826722fa93021f4f610145ec192
-http://free.ninecloud.co/api/v1/client/subscribe?token=7a3521e20fdc2a061a52578366ae975b
