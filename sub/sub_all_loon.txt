@@ -1,5 +1,3 @@
-https://subs.doubao.one/api/v1/client/subscribe?token=aa8e2606b6c68ad2358a91fad464b461
-https://sub123.71345.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
+https://mc.jiedianxielou.workers.dev
 https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
+https://mc.jiedianxielou.workers.dev/
