@@ -1,12 +1,7 @@
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
-https://csgo.fask511.cfd/api/v1/client/subscribe?token=f14e52e1b15c6547e982b23481533e87
-https://dzpd.jiedianxielou.workers.dev/?clash=1
-https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
-https://l.db-link01.top/link/BauoUCZPTZWvzQgK?clash=1
 https://l.db-link01.top/link/1H9b3ZbQHuRbeGUP?clash=1
-https://oss.pithecia.com/api/v1/client/subscribe?token=483fcb626307bfbe1b4e67b6cdad87b7
-https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
+https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
+https://pro.76898102.xyz/api/v1/client/subscribe?token=7f0b99c8116d910c1115f2ed992d1c21&amp;flag=meta
 https://sakuracat1203.xn--3iq226gfdb94q.com/api/v1/client/subscribe?token=d14d8550cc425bdf8e44e2a6c9951759
-https://sub123.71345.xyz/api/v1/client/subscribe?token=7eb7f9c181fe90a98a53d28b1a905b5d
-https://update.glados-config.com/clash/453205/fa870f5/25488/glados.yaml
-https://xsus.wiki/api/v1/client/subscribe?token=d0bd22a534e76a5eb6aca4f3e60b5af5&amp;flag=clash
+https://sub-01.767564.xyz/api/v1/client/subscribe?token=de4a0ea7b988afba1a1072a3288d5390
+https://ttc01.xyz/api/v1/client/subscribe?token=de369ae7689b67e8cc6267ea5b020372
+https://update.glados-config.com/clash/478427/f88d37b/72376/glados.yaml
