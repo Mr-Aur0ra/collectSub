@@ -1,5 +1,5 @@
-https://apisub.mcwy.xyz/api/v1/client/subscribe?token=89424b5caa87f0bfc5d05da83c330764
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
-https://ktmcloud.men/api/v1/client/subscribe?token=1aeb406902ce8bab79fa246df04e45c4&amp;insert=
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
-https://update.glados-config.com/clash/453205/fa870f5/25488/glados.yaml
+https://oss.pithecia.com/api/v1/client/subscribe?token=483fcb626307bfbe1b4e67b6cdad87b7
+https://qingchayun.icu/api/v1/client/subscribe?token=80418297fba5a4f4ac7f21cdcf847e6d
+https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
+https://update.glados-config.com/clash/478427/f88d37b/72376/glados.yaml
+https://user.1vpn.sbs/api/v1/client/subscribe?token=6f5241982cdfdc7dbe0bbcc381e8b7da
