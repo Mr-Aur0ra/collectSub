@@ -1,4 +1,2 @@
-https://mc.jiedianxielou.workers.dev/
-https://wm01dy.wmyun.men/api/v1/client/subscribe?token=c91d2a7db727bb5cb0586e654f3d0948
 https://mc.jiedianxielou.workers.dev
-https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
