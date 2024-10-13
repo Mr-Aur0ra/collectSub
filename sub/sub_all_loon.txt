@@ -1,6 +1,4 @@
-https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://ktmcloud.men/api/v1/client/subscribe?token=1aeb406902ce8bab79fa246df04e45c4
+https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
 https://mc.jiedianxielou.workers.dev/
-https://sub123.71345.xyz/api/v1/client/subscribe?token=95388132afab15570d496c96fe99474d
-https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
 https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
