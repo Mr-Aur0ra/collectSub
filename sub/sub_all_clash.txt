@@ -1,7 +1,6 @@
-https://bajie.info/api/v1/client/subscribe?token=1d51c1d2d9039efb3ef7ddac6d2c52e3
-https://config.huojian111.com/link/57BXs2kcnyMZ1sJ3?sub=3
-https://pro.76898102.xyz/api/v1/client/subscribe?token=7f0b99c8116d910c1115f2ed992d1c21&amp;flag=meta
-https://www.066664.xyz/api/v1/client/subscribe?token=5ec34216e7bbd89ef9cbe2741ebe3f7d&amp;flag=clash
-https://www.sstank.top/link/u6n48bednngklddq?sub=3
-https://xsus.wiki/api/v1/client/subscribe?token=d0bd22a534e76a5eb6aca4f3e60b5af5&amp;flag=clash
+https://a.jiedianxielou.workers.dev/api/v1/client/subscribe?token=UjBGOXVrdFBKYzl0dE5SK3M5Nk84Tkp2T2M0YW1jVk02d0FxbmQ2Q3l5UGF3QkJhUW1CUHNTSzNhOXJmMDFHcXJ4NE51VGpsaVlwMGgzbUgvT1pLQkRMTUhRS2xwYnFEVUNtMzN5OTBabEhwRVE9PQ
+https://jixingnetwork.sbs/api/v1/client/subscribe?token=bb6c1f203b9e3e565125f3b78c611794
+https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023
+https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
+https://tokenapi.fbcloud.lol/api/v1/client/subscribe?token=a4d36cac7f44e35225657f53008bc4ae
 https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
