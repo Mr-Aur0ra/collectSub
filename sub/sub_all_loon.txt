@@ -1,5 +1,5 @@
-https://sub123.71345.xyz/api/v1/client/subscribe?token=ba1d0c5044be749390ee0eb2e6af88e3
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
-https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
-https://mc.jiedianxielou.workers.dev/
-https://free.ninecloud.co/api/v1/client/subscribe?token=d4cc0df4cd2f498e0a81d59bcf5eb2c3
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://csgo.fask511.cfd/api/v1/client/subscribe?token=f14e52e1b15c6547e982b23481533e87
+https://www.066664.xyz/api/v1/client/subscribe?token=5ec34216e7bbd89ef9cbe2741ebe3f7d&amp;flag=clash
+https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
+http://free.ninecloud.co/api/v1/client/subscribe?token=7a3521e20fdc2a061a52578366ae975b
