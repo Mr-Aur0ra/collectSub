@@ -1,9 +1,8 @@
-https://42.194.232.60:10387/iplist/T3c2r8b8Jea2dVUn?sub=3
-https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
-https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=f5bc22005796dfccb69d10bec1e1f8f2
-https://k61kz.no-mad-world.club/link/lZnnLLD3WHfMrM40?clash=3&amp;extend=1
-https://linke.phantasy.life/api/v1/client/subscribe?token=65f8bd6497356cbe1a375e6cf51c4ea2
-https://mc.jiedianxielou.workers.dev
-https://sub123.71345.xyz/api/v1/client/subscribe?token=ba1d0c5044be749390ee0eb2e6af88e3
-https://subs.zeabur.app/clash
-https://update.glados-config.com/clash/478427/f88d37b/72376/glados.yaml
+https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
+https://cloudcat.top/api/v1/client/subscribe?token=9ce4eed8746e59bd75bf732867c0c309
+https://dzpd.jiedianxielou.workers.dev/api/v1/client/subscribe?token=bf64cd2b19ee10e66068fd94e335af79
+https://l.db-link01.top/link/1H9b3ZbQHuRbeGUP?clash=1
+https://mysub.cc/subscribe/19238/DH7Ox5IpgS/sip002/
+https://study.jaycloud11111.top/study?token=ea9d115179b89ad752737bceaf1d1ce6
+https://xn--mesz9ptugxg.com/api/v1/client/subscribe?token=90bf1e7381a3e9597b8b0bcb69028fc2
+https://zqjc.org/api/v1/client/subscribe?token=90bf1e7381a3e9597b8b0bcb69028fc2&amp;types=vless
