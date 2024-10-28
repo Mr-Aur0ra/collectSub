@@ -44,7 +44,6 @@ https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?
 https://sub123.71345.xyz/api/v1/client/subscribe?token=7eb7f9c181fe90a98a53d28b1a905b5d
 https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
 https://free.andiliba.cc/link/f2fa04a7dc6856dc?clash=1
-https://cloudlion.me/api/v1/client/subscribe?token=ac28f8c16a37cf5a9c464a3d85b190bd
 https://free.ninecloud.co/api/v1/client/subscribe?token=d4cc0df4cd2f498e0a81d59bcf5eb2c3
 https://free.ninecloud.co/api/v1/client/subscribe?token=a5276826722fa93021f4f610145ec192
 https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
