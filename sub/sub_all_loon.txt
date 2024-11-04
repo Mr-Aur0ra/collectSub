@@ -1,7 +1,7 @@
+https://cloudfisher.net/jsk34?token=77adb97705db4fbc729a9cfcd5808db0
+https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
+https://mc.jiedianxielou.workers.dev/
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://sub.yslink.cc/api/v1/client/subscribe?token=2d7b5f85cd38920c885f98249946e603
-https://subs.zeabur.app/clash
 https://mc.jiedianxielou.workers.dev
-https://pavo.eu.org/api/v1/client/subscribe?token=f548cee7fef0b06cbed0983c7cd901d2
-https://api.liltjay.ip-ddns.com/TQWMYCWH2D
+https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
 https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
