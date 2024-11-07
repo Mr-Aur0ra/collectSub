@@ -1,8 +1,7 @@
-https://subs.zeabur.app/clash
-https://sub123.71345.xyz/api/v1/client/subscribe?token=ba1d0c5044be749390ee0eb2e6af88e3
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
 https://mc.jiedianxielou.workers.dev
-https://sub.cjcloud.cc/api/v1/client/subscribe?token=f0f3bfe984d260e8d7fc39bdc495f782
-https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
-https://api.fenghuolun.xyz/api/v1/client/subscribe?token=8aa7fae2aa09afef367610b7d1cde3a1
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://dd.moonriver.cfd/api/v1/client/subscribe?token=2f357d08492582d684f8493f1aa0967c
+https://api.fenghuolun.xyz/api/v1/client/subscribe?token=87ac36beeb72ab1d00e20ea4646f7a93
+https://api.fenghuolun.xyz/api/v1/client/subscribe?token=a9236b831f8019a4914004d9dabca481
+https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
+https://sub123.71345.xyz/api/v1/client/subscribe?token=ba1d0c5044be749390ee0eb2e6af88e3
