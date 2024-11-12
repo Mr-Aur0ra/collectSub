@@ -1,10 +1,5 @@
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=7eb7f9c181fe90a98a53d28b1a905b5d
-https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=8ecf59b49c4a8893221934d0fc2c1986
-https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=40f7985b72395792f4c7cf86898d4f5f
-https://fn1.170809.xyz/api/v1/client/subscribe?token=d0e40e7ce88e354269b14e2c999820c2
-https://mojie.app/api/v1/client/subscribe?token=ce77d629eb0bcea28739ffefa5620218
-https://pavo.eu.org/api/v1/client/subscribe?token=4336f829537b98be8cb36254a33ad528
-https://ss.81dlg.com/dy/ss?token=ccd4d26cbbb9f3251034e2b7eb51e384
-https://sub.miaolianyun.vip/mly_sub?token=bb8d2654de827e86cee36879fd3c5697
-https://xsus.wiki/api/v1/client/subscribe?token=d0bd22a534e76a5eb6aca4f3e60b5af5&amp;flag=clash
+https://gs.kkhhddnn.cn/api/v1/client/subscribe?token=c33b8a8de9ebc42ab121dc150ce3158a
+https://hongxingdl.com/hxvip?token=f1c9d67d69add8b03f8ef8613caec477
+https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023&amp;flag=meta
+https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
+https://ss.81dlg.com/dy/ss?token=28a758f89c6d7cff3de4729fe820d67b
