@@ -1,8 +1,2 @@
-https://dy.huidu718.com/dingyue?token=2740c926586fbf7126ba718063411a79
-https://www.066664.xyz/api/v1/client/subscribe?token=5ec34216e7bbd89ef9cbe2741ebe3f7d&amp;flag=clash
-https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
-https://app.jisovpn.site/api/v1/client/subscribe?token=352049eecc0d30658488bcf11184018e
-https://hongxingdl.com/hxvip?token=3343b33b1e9b1c927a48c9a6e631dff0
-https://sub123.71345.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
-https://tudou.igken.com/api/v1/client/subscribe?token=f0d5eda7efd87a99e2e94f8790276706
+https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
