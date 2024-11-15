@@ -1,7 +1,6 @@
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
-https://a.sdwan.im/api/v1/client/subscribe?token=e78d3e6b5749e0d342b9dc12ac28f6f2
-https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://mc.jiedianxielou.workers.dev/
+https://2381bfde-8c93-4701-8f14-24f071067a1a.nginx24bit.xyz/api/v1/client/subscribe?token=7a34a7e4d092c4bc11064c4ca594a15c
+https://mc.jiedianxielou.workers.dev
 https://smallairport-first-sub.top/api/v1/client/subscribe?token=accedcd63928dbc35bd6223ebe7f446f
-https://hongxingdl.com/hxvip?token=f1c9d67d69add8b03f8ef8613caec477
-https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
-https://study.jaycloud11111.top/study?token=ea9d115179b89ad752737bceaf1d1ce6
+https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
