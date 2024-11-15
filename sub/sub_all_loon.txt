@@ -1,8 +1,5 @@
+http://n15uvht4r659107p.eastasia.cloudapp.azure.com/queue/list?token=40c55cc7caba14930d459adfdc70735c
 https://hongxingdl.com/hxvip?token=f1c9d67d69add8b03f8ef8613caec477
 https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-https://mc.jiedianxielou.workers.dev/
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://a.sdwan.im/api/v1/client/subscribe?token=e78d3e6b5749e0d342b9dc12ac28f6f2
-https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
-https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
-https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
+https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
+https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
