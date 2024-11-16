@@ -1,2 +1,3 @@
-https://app.jisovpn.site/api/v1/client/subscribe?token=5d2f12c9211d3c62d9cfe6360f4da146#9itrguit
-https://www.066664.xyz/api/v1/client/subscribe?token=5ec34216e7bbd89ef9cbe2741ebe3f7d&amp;flag=clash
+https://mc.jiedianxielou.workers.dev
+https://mc.jiedianxielou.workers.dev/
+https://sub123.71345.xyz/api/v1/client/subscribe?token=67d0e817bbb631b2aa14bfe031334415
