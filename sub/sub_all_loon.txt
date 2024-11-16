@@ -1,5 +1,6 @@
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=7eb7f9c181fe90a98a53d28b1a905b5d
-https://mc.jiedianxielou.workers.dev/
-https://vot.278986.xyz/api/v1/client/subscribe?token=5596c41f1db48da17b8271aa6975016b
-https://1.bethebest.eu.org/api/v1/client/subscribe?token=ef027a5bfc788a6b7eddcc859a078b14
-https://088EA81A-3547-85E0-4AF6-DFCB3C6674AA.372372.xyz/api/v1/client/subscribe?token=d3065c795c0ea07c325756a2515708d9
+https://app.jisovpn.site/api/v1/client/subscribe?token=b87afe5c85c59f422ded2956e53ebdc5
+https://dxapp.jmvks.cn/api/v1/client/subscribe?token=e29720c6300475f1248037aecc71cfc8#%E5%A4%A7%E7%86%8A%F0%9F%90%BB
+https://sub123.71345.xyz/api/v1/client/subscribe?token=95388132afab15570d496c96fe99474d
+https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
+https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
