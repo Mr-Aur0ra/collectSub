@@ -1,9 +1,8 @@
-https://aq.louwangzhiyu.xyz/api/v1/client/subscribe?token=60ea712bdae276ada7d4a60bf98992e4
-https://linke.phantasy.life/api/v1/client/subscribe?token=65f8bd6497356cbe1a375e6cf51c4ea2
-https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
-https://sub.miaolianyun.vip/mly_sub?token=01f86b33f19f09a1e0a46338461bc348
-https://sub.miaolianyun.vip/mly_sub?token=82fa67fa2ba41c6ba0ebbe4e6bf5b2a1
-https://sub.xn--9kqt24a0kz.com/xiaomi?token=12ec3891d9cc325eb57a263e3fd5d418
-https://subs.zeabur.app/clash
-https://url.mtdwoodwork.com/api/v1/client/subscribe?token=2970cd8b058a0a1e1f4e84a30952800e
-https://www.laoniu49.top/api/v1/client/subscribe?token=5a26034d8f260d5c175a4354d8bd5a1a
+http://101.200.14.80:3325/api/v1/client/subscribe?token=4bbd5149d786e6ead646d4b5bbaee6a8
+https://feiniaoyun11.life/api/v1/client/subscribe?token=dc909193125adf8993a68eaed34b0315
+https://dzpd.jiedianxielou.workers.dev/api/v1/client/subscribe?token=bf64cd2b19ee10e66068fd94e335af79
+https://l.db-link01.top/link/mqQ5gNhWbR2TBtSo?list=shadowrocket
+https://ss.81dlg.com/dy/ss?token=ccd4d26cbbb9f3251034e2b7eb51e384
+https://sub.miaolianyun.vip/mly_sub?token=85f5ddffe6218f19e0229a188df640a0
+https://www.lbxjc.online/api/v1/client/subscribe?token=dfed0910310aed1ca8a28e33c813d925
+https://www.catssr.host/api/v1/client/subscribe?token=2f36e87157bf9fc79bce325bc6e804c3
