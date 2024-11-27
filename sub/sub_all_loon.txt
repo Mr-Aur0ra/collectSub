@@ -1,5 +1,4 @@
-https://cat.ikkt.cn/api/v1/client/subscribe?token=2f36e87157bf9fc79bce325bc6e804c3
 https://www.catssr.host/api/v1/client/subscribe?token=2f36e87157bf9fc79bce325bc6e804c3
 https://smallairport-first-sub.top/api/v1/client/subscribe?token=accedcd63928dbc35bd6223ebe7f446f
-https://cpdd.one/sub?token=004c8f491fd34b029cd81badf89f8ced
-https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
+http://one.bblinks.top/user/gameservers?token=b9cc6a27b42a70106a881f5f24f3cb17
+https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
