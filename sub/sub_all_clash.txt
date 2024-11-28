@@ -1,4 +1,12 @@
-https://2381bfde-8c93-4701-8f14-24f071067a1a.nginx24bit.xyz/api/v1/client/subscribe?token=7a34a7e4d092c4bc11064c4ca594a15c
-https://088EA81A-3547-85E0-4AF6-DFCB3C6674AA.372372.xyz/api/v1/client/subscribe?token=d3065c795c0ea07c325756a2515708d9
-https://aini.200566.xyz/tzjz55/download/%E7%BE%8E%E5%9B%BD%E8%87%AA%E5%BB%BA%E8%8A%82%E7%82%B9
-https://k61kz.no-mad-world.club/link/lZnnLLD3WHfMrM40?clash=3&amp;extend=1
+http://101.200.14.80:3325/api/v1/client/subscribe?token=4bbd5149d786e6ead646d4b5bbaee6a8
+https://getafreenode.com/subscribe/?uuid=5af5e263-f03e-4329-a4c5-9aac626efdc2
+https://a.sdwan.im/api/v1/client/subscribe?token=e78d3e6b5749e0d342b9dc12ac28f6f2
+https://sub.miaolianyun.vip/mly_sub?token=f6ce6cd644d2a697ba5a88118cb4368d
+https://dd.moonriver.cfd/api/v1/client/subscribe?token=2f357d08492582d684f8493f1aa0967c
+https://dl.vfkum.website/api/v1/client/subscribe?token=c8684da353178ab2c34d3a16726c4584
+https://l.db-link01.top/link/1H9b3ZbQHuRbeGUP?clash=1
+https://pavo.eu.org/api/v1/client/subscribe?token=f548cee7fef0b06cbed0983c7cd901d2
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
+https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
+https://www.lbxjc.online/api/v1/client/subscribe?token=dfed0910310aed1ca8a28e33c813d925
+https://www.tiziwrops.com/api/v1/client/subscribe?token=6fd5d7a49a593a88ccdfb40fe344579c
