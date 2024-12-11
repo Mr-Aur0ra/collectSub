@@ -1,8 +1,6 @@
-https://mc.jiedianxielou.workers.dev
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-https://jilu.uuvpn.xyz/api/v1/client/subscribe?token=c9fd509e51f08bec3182c29056e28772
-http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=6d356f188634de6f14b70c20488b5079
-https://api.liltjay.ip-ddns.com/TQWMYCWH2D
-https://www.066664.xyz/api/v1/client/subscribe?token=5ec34216e7bbd89ef9cbe2741ebe3f7d&amp;flag=clash
-https://569cdn.1010520.click/api/v1/client/subscribe?token=781d7319768d475772927420bc2a0274
+https://subscribe.fastsocks.xyz/api/v1/client/subscribe?token=9f0fb26b13d8f4f3063fcf8c46734523
+https://mc.jiedianxielou.workers.dev/
+https://dl.vfkum.website/api/v1/client/subscribe?token=c8684da353178ab2c34d3a16726c4584
+https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=18b201ce85bf15912384f4cead120a8b
+https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
+https://submit.xz61.cn:23443/api/v1/client/subscribe?token=aa997fc3d60f190eb00e4ed89528ca3a
