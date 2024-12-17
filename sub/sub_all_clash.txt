@@ -1,11 +1,6 @@
+http://1.1596666.xyz/api/v1/client/subscribe?token=1dec5121c95e504f667efe2705e0b1ff
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
+https://fn1.170809.xyz/api/v1/client/subscribe?token=d0e40e7ce88e354269b14e2c999820c2
 http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
-http://gbtgurl01.org/api/v1/client/subscribe?token=6ffdb23ecb80f2976136b2328bd8accd
-https://a.jiedianxielou.workers.dev/api/v1/client/subscribe?token=UjBGOXVrdFBKYzlqdnBCdThOZUx1b2xoT1loVW41MU0vbDFzbTl5ZmdUN2JqUkJNVW5wT3BuU2hZWTdPMGdmN28wRmN2enExMjR0ejBTU0gvZVllQ1RLWkhRVHpyN0tIV2kyMjBpNGdNQT09
-https://pavo.eu.org/api/v1/client/subscribe?token=f548cee7fef0b06cbed0983c7cd901d2
-https://nuonuonet.uk/api/v1/client/subscribe?token=96a57e2c509347ae3eacc1d25326b933
-https://s.33y.run/v3/subscr?id=0ba4a24015864a54929c26389c8a4111
-https://pqjc.site/api/v1/client/subscribe?token=3a7b03ae2964652eedc6afab23a4a86c
-https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
-https://sub1.jiatelin.cyou/api/v1/client/subscribe?token=fa5f8fbbf4612457bce2411d06c8c3d5
-https://sub.xinyo.vip/api/v1/client/subscribe?token=afab256888ae6487f2287d22b21cb779
-https://user.1vpn.sbs/api/v1/client/subscribe?token=6f5241982cdfdc7dbe0bbcc381e8b7da
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
+https://ss.hxcq.cc/api/v1/client/subscribe?token=9dd158fa3432f8c6933bc96a54bf8572
