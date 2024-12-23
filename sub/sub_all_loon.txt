@@ -1,4 +1,5 @@
-https://mc.jiedianxielou.workers.dev/
 https://mc.jiedianxielou.workers.dev
-https://ss.81dlg.com/dy/ss?token=c0c344484f2e4643cd72e7e438cdb5ad
-https://huaxia.tcekx.cn/huaxia/max?token=b53d1eb5a3aea38b774f1ded63d0f121
+https://mc.jiedianxielou.workers.dev/
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://cloudfisher.net/jsk34?token=357b5b436ac0b92e9649b964bf0e7a68
+https://study.jaycloud11111.top/study?token=ea9d115179b89ad752737bceaf1d1ce6
