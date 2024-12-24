@@ -1,13 +1,4 @@
-http://47.243.59.73/api/v1/client/subscribe?token=f872370768e7e2d6a36c7c1bb5d7f370
-https://sub.lingche.icu/api/v1/client/subscribe?token=48e95450735e7d06d61b56f9bdb349fc
-https://52pokemon.xz61.cn/api/v1/client/subscribe?token=70c4f57a9a11a006893cdd46a40861fe
-https://a.jiedianxielou.workers.dev/api/v1/client/subscribe?token=bHl6RldjV3draTAyMjlHSXR2VW9haFk0ZE9iNWQ3eTVyVEl5RjlqQWJLMlliY2NkQUxVcG5wemFKN0JEdjFsbTZKTzVvS1lvenVCMW9TQWZTcW8vWStWZ3VUQmF6anJwMksrbXloTGhWS25KRWY2cUFVWT0
-https://api.xinyo.vip/api/v1/client/subscribe?token=731485d80bbbde226e16ffac57a57554
-https://cdn1715497317.ppgnginx.com/api/v1/client/subscribe?token=51a3824f85c5d02a32a3a8deb8931365
-https://getafreenode.com/subscribe/?uuid=5af5e263-f03e-4329-a4c5-9aac626efdc2
-https://hongxingdl.com/hxvip?token=b2577ee788cce083e4b5c65e7ada95cf
-https://mro5n.no-mad-world.club/link/5sXDluQT5cSVGrSF?clash=3&amp;extend=1
-https://pqjc.site/api/v1/client/subscribe?token=0939e59e6b3abecd8cc17b90a33dd963&amp;flag=meta
-https://ss.81dlg.com/dy/ss?token=c0c344484f2e4643cd72e7e438cdb5ad
-https://sub.lingche.icu/api/v1/client/subscribe?token=48e95450735e7d06d61b56f9bdb349fc&amp;flag=meta
-https://xn--fhqu06a8m1asto.icu/linju?token=361cff585b1a865e8bf70effc062e194&amp;flag=meta
+https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023
+https://oss.pithecia.com/api/v1/client/subscribe?token=483fcb626307bfbe1b4e67b6cdad87b7
+https://pqjc.site/api/v1/client/subscribe?token=c7ca56d9f5ed48193ad30490f21506ef
+https://sub.xinyo.vip/api/v1/client/subscribe?token=191ff749aef5fc340847cb7b846e8be1
