@@ -1,3 +1,6 @@
-https://mc.jiedianxielou.workers.dev
-https://suba.lingche.icu/api/v1/client/subscribe?token=48e95450735e7d06d61b56f9bdb349fc
-https://www.catssr.one/api/v1/client/subscribe?token=bf587ad6317f74983bb98612a522a196
+https://c3.notesync.org/api/v1/client/subscribe?token=70Q8pahCchpkgN1rTSBS9aV3hScI6RoN
+https://mc.jiedianxielou.workers.dev/
+https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
+https://cola.xn--chqu2nzsxv3y.com/api/v1/client/subscribe?token=84addb61c3a2639f5a2fa219771e6e9d
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://huaxia.tcekx.cn/huaxia/max?token=b53d1eb5a3aea38b774f1ded63d0f121
