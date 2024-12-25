@@ -1,4 +1,3 @@
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://yyds.emovpn.top/api/v1/client/subscribe?token=e3564accfb797578dc8251fc07207abe
-https://suba.lingche.icu/api/v1/client/subscribe?token=48e95450735e7d06d61b56f9bdb349fc
-https://www.catssr.one/api/v1/client/subscribe?token=bf587ad6317f74983bb98612a522a196
+http://g3i.buzz/v3/subscr?id=c64d8ba46be149169bb8651d41173901
+https://huaxia.tcekx.cn/huaxia/max?token=b53d1eb5a3aea38b774f1ded63d0f121
