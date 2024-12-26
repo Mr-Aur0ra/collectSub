@@ -1,10 +1,4 @@
-http://gbtgurl01.org/api/v1/client/subscribe?token=36e8a67632a8d0f0c0eea58b099a0826
-https://api.xinyo.vip/api/v1/client/subscribe?token=5a563d7330dd13ce16ec909ea4257548
-https://api1.fzdwf.top/api/v1/client/subscribe?token=67706c7a66b91ab14742f3e54771037f
-https://huaxia.tcekx.cn/huaxia/max?token=b53d1eb5a3aea38b774f1ded63d0f121
-https://pavo.eu.org/api/v1/client/subscribe?token=f548cee7fef0b06cbed0983c7cd901d2
-https://pqjc.site/api/v1/client/subscribe?token=d914ff92ab5c7a2d2bcf11652f514bcc
-https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
-https://sakuracat1203.xn--3iq226gfdb94q.com/api/v1/client/subscribe?token=d14d8550cc425bdf8e44e2a6c9951759
-https://submit.xz61.cn:23443/api/v1/client/subscribe?token=7bf4252b5e940a087f4f1bb649053427
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
+https://api.xinyo.vip/api/v1/client/subscribe?token=731485d80bbbde226e16ffac57a57554
+https://lmaff01.lmspeed.co/api/v1/client/subscribe?token=35911e9a69a8bc49adf86904c16944ce
+https://xn--fhqu06a8m1asto.icu/linju?token=b12082b5d7004322c953cfef00fed360
