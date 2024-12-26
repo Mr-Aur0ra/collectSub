@@ -1,4 +1,5 @@
 https://mc.jiedianxielou.workers.dev
+https://a.aikllc.tech/api/v1/client/subscribe?token=9a6b1bf0dd3469fc0fe3bc79a2b0ba92
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://ss.81dlg.com/dy/ss?token=c0c344484f2e4643cd72e7e438cdb5ad
-https://www.laoniu49.top/api/v1/client/subscribe?token=5a26034d8f260d5c175a4354d8bd5a1a
+https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
+https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
